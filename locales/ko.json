@@ -147,7 +147,7 @@
         "image_available": "이제 갤러리 뷰에서 이미지 {{ index }} 사용 가능"
       },
       "view_full_details": "전체 세부 정보 보기",
-      "include_taxes": " ",
+      "include_taxes": "",
       "shipping_policy_html": "<a href=\"{{ link }}\">배송료<\/a>는 결제 시 계산됩니다.",
       "choose_options": "옵션 선택하기",
       "choose_product_options": "{{ product_name }}의 옵션 선택"
