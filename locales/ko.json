@@ -428,7 +428,8 @@
   "shopify": {
     "checkout": {
       "order_summary": {
-        "shipping_default_value": "무료배송"
+        "shipping_default_value": "무료배송",
+        "vat_label_html": "VAT 포함"
       }
     }
   }
