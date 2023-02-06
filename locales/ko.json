@@ -441,7 +441,8 @@
       },
       "review": {
         "blocks": {
-          "payment_method_title": "결제"
+          "payment_method_title": "결제",
+          "shipping_address_title": "배송지"
         }
       },
       "payment": {
