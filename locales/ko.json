@@ -237,7 +237,7 @@
       "remove_title": "{{ title }} 제거",
       "subtotal": "총 상품 금액",
       "new_subtotal": "새로 계산된 총 상품 금액",
-      "note": "요청사항",
+      "note": "배송 시 요청사항",
       "checkout": "주문하기",
       "empty": "카트가 비어 있습니다",
       "cart_error": "카트를 업데이트하는 중 오류가 발생했습니다. 다시 시도하십시오.",
