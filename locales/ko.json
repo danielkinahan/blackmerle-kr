@@ -444,6 +444,9 @@
       },
       "payment": {
         "title": "결제"
+      },
+      "contact": {
+        "phone_tooltip": "정확하고 안전한 배송을 위해 사용됩니다."
       }
     }
   }
