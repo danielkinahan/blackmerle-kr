@@ -439,11 +439,11 @@
       },
       "review": {
         "blocks": {
-          "payment_method_title": "결제 수단"
+          "payment_method_title": "결제"
         }
       },
       "payment": {
-        "title": "결제 수단"
+        "title": "결제"
       }
     }
   }
