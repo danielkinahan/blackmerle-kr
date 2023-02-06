@@ -436,6 +436,11 @@
       },
       "general": {
         "cart": "장바구니"
+      },
+      "review": {
+        "blocks": {
+          "payment_method_title": "결제 수단"
+        }
       }
     }
   }
