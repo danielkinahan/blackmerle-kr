@@ -424,5 +424,12 @@
       "copy_code_success": "코드 복사 완료",
       "print_gift_card": "인쇄"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "order_summary": {
+        "shipping_default_value": "무료배송"
+      }
+    }
   }
 }
