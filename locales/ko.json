@@ -255,7 +255,7 @@
       },
       "update": "업데이트",
       "login": {
-        "title": "계정이 있습니까?",
+        "title": "",
         "paragraph_html": "더 빠르게 결제하려면 <a href=\"{{ link }}\" class=\"link underlined-link\">로그인<\/a>하십시오."
       }
     },
