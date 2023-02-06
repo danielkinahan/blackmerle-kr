@@ -441,6 +441,9 @@
         "blocks": {
           "payment_method_title": "결제 수단"
         }
+      },
+      "payment": {
+        "title": "결제 수단"
       }
     }
   }
