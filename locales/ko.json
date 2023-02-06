@@ -433,6 +433,9 @@
       },
       "marketing": {
         "accept_marketing_checkbox_label": "혜택, 뉴스 및 이벤트 관련 이메일 받기"
+      },
+      "general": {
+        "cart": "장바구니"
       }
     }
   }
