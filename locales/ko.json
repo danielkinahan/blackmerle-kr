@@ -436,7 +436,8 @@
       },
       "general": {
         "cart": "장바구니",
-        "continue_to_payment_method": "계속하기"
+        "continue_to_payment_method": "계속하기",
+        "continue_to_shipping_method": "계속하기"
       },
       "review": {
         "blocks": {
