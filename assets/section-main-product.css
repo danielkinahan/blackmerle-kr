@@ -305,7 +305,8 @@ fieldset.product-form__input .form__label {
 /* Product info */
 
 .product__info-container > * + * {
-  margin: 0 0;
+  margin: 2rem 0;
+  padding-bottom: 1rem;
 }
 
 .product__info-container iframe {
