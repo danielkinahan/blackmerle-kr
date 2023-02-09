@@ -2368,6 +2368,8 @@ input[type='checkbox'] {
   display: flex;
   grid-area: icons;
   justify-self: end;
+  letter-spacing: 0.15rem;
+  align-items: center;
 }
 
 .header__icon:not(.header__icon--summary),
@@ -2395,8 +2397,8 @@ input[type='checkbox'] {
 }
 
 .header__icon .icon {
-  height: 2rem;
-  width: 2rem;
+  height: 1.7rem;
+  width: 1.8rem;
   fill: none;
   vertical-align: middle;
 }

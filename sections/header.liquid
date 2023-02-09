@@ -36,6 +36,25 @@
     max-width: {{ section.settings.logo_width }}px;
   }
 
+  .header__heading-link {
+    text-decoration-line: none;
+    color: gray;
+  }
+
+  .header__heading-link:active {
+    text-decoration-line: underline;
+    text-decoration-thickness: 2px;
+    color: black;
+  }
+
+  @media screen and (max-width: 749px){
+    .header__heading-link{
+      letter-spacing: 0rem;
+      font-size: 11px;
+      word-break: unset;
+    }
+  }
+
   .menu-drawer-container {
     display: flex;
   }
@@ -413,10 +432,10 @@
       {%- endif -%}
     {%- endif -%}
 
-    <div class="header__icons">
-      <a href="https://kr.blackmerle.com{{ request.path }}">KR</a>
-      /
-      <a href="https://blackmerle.com{{ request.path }}">INT</a>
+    <div class="header__icons" style="font-weight: bold;">
+      <a href="https://kr.blackmerle.com{{ request.path }}" class="header__heading-link">KR</a>
+      /&nbsp;
+      <a href="https://blackmerle.com{{ request.path }}" class="header__heading-link">INT</a>
       {%- if shop.customer_accounts_enabled -%}
         <a href="{%- if customer -%}{{ routes.account_url }}{%- else -%}{{ routes.account_login_url }}{%- endif -%}" class="header__icon header__icon--account link focus-inset{% if section.settings.menu != blank %} small-hide{% endif %}">
           {% render 'icon-account' %}
