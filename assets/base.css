@@ -575,9 +575,6 @@ table:not([class]) th {
 }
 
 @media screen and (max-width: 749px) {
-  .small-hide {
-    display: none !important;
-  }
   .header__heading-logo {
     width: 110px;
   }
