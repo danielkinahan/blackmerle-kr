@@ -50,6 +50,7 @@
     },
     "417c6528-d453-4cc3-bc8b-cc977efe9534": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--17768773091623__417c6528-d453-4cc3-bc8b-cc977efe9534-16760091168a8629bb-0": {
           "type": "heading",
