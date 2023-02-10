@@ -6,17 +6,8 @@
         "5176663f-eee8-4233-a8bd-66ce7ef5ad2e": {
           "type": "heading",
           "settings": {
-            "heading": "SS23 First release now live",
+            "heading": "SS23 Available now",
             "heading_size": "h2"
-          }
-        },
-        "77b59e08-5ad0-427b-a01d-ece3210fecb9": {
-          "type": "caption",
-          "disabled": true,
-          "settings": {
-            "caption": "SS23 First release now live",
-            "text_style": "subtitle",
-            "text_size": "small"
           }
         },
         "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-1": {
@@ -36,7 +27,6 @@
       },
       "block_order": [
         "5176663f-eee8-4233-a8bd-66ce7ef5ad2e",
-        "77b59e08-5ad0-427b-a01d-ece3210fecb9",
         "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-1",
         "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-2"
       ],
