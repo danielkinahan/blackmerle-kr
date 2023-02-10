@@ -89,36 +89,36 @@
     "8b3e15c1-f77f-4ddc-a216-59f4123684d9": {
       "type": "collage",
       "blocks": {
-        "template--17768773091623__8b3e15c1-f77f-4ddc-a216-59f4123684d9-16760092108076d400-0": {
-          "type": "video",
+        "391cd41c-4b9a-4d73-beb9-0b6b304ef714": {
+          "type": "image",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "description": "Describe the video",
-            "image_padding": false
+            "image": "shopify:\/\/shop_images\/blackmerle-SS23-221-looks-1-37_F_701d56e8-0a67-453b-96cd-839e39cd430a.jpg",
+            "image_padding": true
           }
         },
         "template--17768773091623__8b3e15c1-f77f-4ddc-a216-59f4123684d9-16760092108076d400-1": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "mid-jacket-lead",
             "second_image": false
           }
         },
-        "template--17768773091623__8b3e15c1-f77f-4ddc-a216-59f4123684d9-16760092108076d400-2": {
-          "type": "collection",
+        "cdaf6d24-ae66-4575-a314-35b23894a9a0": {
+          "type": "product",
           "settings": {
-            "collection": ""
+            "product": "fatigue-pants-carbon",
+            "second_image": false
           }
         }
       },
       "block_order": [
-        "template--17768773091623__8b3e15c1-f77f-4ddc-a216-59f4123684d9-16760092108076d400-0",
+        "391cd41c-4b9a-4d73-beb9-0b6b304ef714",
         "template--17768773091623__8b3e15c1-f77f-4ddc-a216-59f4123684d9-16760092108076d400-1",
-        "template--17768773091623__8b3e15c1-f77f-4ddc-a216-59f4123684d9-16760092108076d400-2"
+        "cdaf6d24-ae66-4575-a314-35b23894a9a0"
       ],
       "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h1",
+        "heading": "",
+        "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
         "card_styles": "product-card-wrapper",
