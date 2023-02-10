@@ -12,6 +12,7 @@
         },
         "77b59e08-5ad0-427b-a01d-ece3210fecb9": {
           "type": "caption",
+          "disabled": true,
           "settings": {
             "caption": "SS23 First release now live",
             "text_style": "subtitle",
@@ -20,6 +21,7 @@
         },
         "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog.<\/p>",
             "text_style": "body"
