@@ -1,7 +1,55 @@
 {
   "sections": {
+    "53f9644f-b845-4a96-a5b9-61c04f5ee7dc": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "looks",
+            "heading_size": "h1"
+          }
+        },
+        "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a>Pair text with an image to focus on your chosen product, collection, or blog post.<\/a><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "view",
+            "button_link": "shopify:\/\/pages\/ss23-1-looks"
+          }
+        }
+      },
+      "block_order": [
+        "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-0",
+        "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-1",
+        "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-2"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/KakaoTalk_20230208_212050548_8a42a273-bfd6-4194-83dc-304ad685a417.jpg",
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1d97bee0-f5f7-474b-9fb8-a1c3b2ac3f78": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "template--17768773091623__1d97bee0-f5f7-474b-9fb8-a1c3b2ac3f78-1676014917273e998e-0": {
           "type": "slide",
@@ -162,117 +210,13 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "53f9644f-b845-4a96-a5b9-61c04f5ee7dc": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "looks",
-            "heading_size": "h1"
-          }
-        },
-        "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><a>Pair text with an image to focus on your chosen product, collection, or blog post.<\/a><\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "view",
-            "button_link": "shopify:\/\/pages\/ss23-1-looks"
-          }
-        }
-      },
-      "block_order": [
-        "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-0",
-        "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-1",
-        "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-2"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/KakaoTalk_20230208_212050548_8a42a273-bfd6-4194-83dc-304ad685a417.jpg",
-        "height": "adapt",
-        "desktop_image_width": "large",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "304f301f-8431-496e-b525-3532f7b1e981": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--17768773091623__304f301f-8431-496e-b525-3532f7b1e981-16760092534d323a92-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/4514_test-1.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/pages\/ss23-1-looks"
-          }
-        },
-        "template--17768773091623__304f301f-8431-496e-b525-3532f7b1e981-16760092534d323a92-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_221_world_2_hoodedjacket_detail_final_2048x2048_c63f0ffc-a0d4-458d-b642-bf6b1493375d.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/pages\/ss23-1-release"
-          }
-        },
-        "template--17768773091623__304f301f-8431-496e-b525-3532f7b1e981-16760092534d323a92-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_221_world_3_scan_8_final_7f310f47-333c-44f2-992a-29a7a8ce96fe.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/pages\/ss23-layers"
-          }
-        }
-      },
-      "block_order": [
-        "template--17768773091623__304f301f-8431-496e-b525-3532f7b1e981-16760092534d323a92-0",
-        "template--17768773091623__304f301f-8431-496e-b525-3532f7b1e981-16760092534d323a92-1",
-        "template--17768773091623__304f301f-8431-496e-b525-3532f7b1e981-16760092534d323a92-2"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
+    "53f9644f-b845-4a96-a5b9-61c04f5ee7dc",
     "1d97bee0-f5f7-474b-9fb8-a1c3b2ac3f78",
     "multicolumn",
     "417c6528-d453-4cc3-bc8b-cc977efe9534",
-    "8b3e15c1-f77f-4ddc-a216-59f4123684d9",
-    "53f9644f-b845-4a96-a5b9-61c04f5ee7dc",
-    "304f301f-8431-496e-b525-3532f7b1e981"
+    "8b3e15c1-f77f-4ddc-a216-59f4123684d9"
   ]
 }
