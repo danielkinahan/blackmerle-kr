@@ -1,1 +1,144 @@
-{"sections":{"multicolumn":{"type":"multicolumn","blocks":{"2e5688dc-d9c6-4185-8933-9bd7d2e4c892":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/blackmerle_221_island_2_1.jpg","title":"","text":"","link_label":"","link":""}}},"block_order":["2e5688dc-d9c6-4185-8933-9bd7d2e4c892"],"settings":{"title":"","heading_size":"h2","image_width":"full","image_ratio":"adapt","columns_desktop":1,"column_alignment":"left","background_style":"none","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":20,"padding_bottom":0}}},"order":["multicolumn"]}
+{
+  "sections": {
+    "53f9644f-b845-4a96-a5b9-61c04f5ee7dc": {
+      "type": "image-with-text",
+      "blocks": {
+        "5176663f-eee8-4233-a8bd-66ce7ef5ad2e": {
+          "type": "heading",
+          "settings": {
+            "heading": "SS23 Available now",
+            "heading_size": "h2"
+          }
+        },
+        "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>First release<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "shop",
+            "button_link": "shopify:\/\/collections\/shop"
+          }
+        }
+      },
+      "block_order": [
+        "5176663f-eee8-4233-a8bd-66ce7ef5ad2e",
+        "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-1",
+        "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-2"
+      ],
+      "custom_css": [
+        "h2 {font-size: 16px; color: #000000;}",
+        "p {font-size: 16px; color: #000000;}",
+        ".image-with-text__content {background-color: #ffffff;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/blackmerle-looks-2-4.jpg",
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "8b3e15c1-f77f-4ddc-a216-59f4123684d9": {
+      "type": "collage",
+      "blocks": {
+        "391cd41c-4b9a-4d73-beb9-0b6b304ef714": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KakaoTalk_20230210_174008114.jpg",
+            "image_padding": true
+          }
+        },
+        "cdaf6d24-ae66-4575-a314-35b23894a9a0": {
+          "type": "product",
+          "settings": {
+            "product": "field-shirt-soot",
+            "second_image": false
+          }
+        },
+        "template--17768773091623__8b3e15c1-f77f-4ddc-a216-59f4123684d9-16760092108076d400-1": {
+          "type": "product",
+          "settings": {
+            "product": "rider-pants-wet-stone",
+            "second_image": false
+          }
+        }
+      },
+      "block_order": [
+        "391cd41c-4b9a-4d73-beb9-0b6b304ef714",
+        "cdaf6d24-ae66-4575-a314-35b23894a9a0",
+        "template--17768773091623__8b3e15c1-f77f-4ddc-a216-59f4123684d9-16760092108076d400-1"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "d3515f02-56b6-4e33-8949-3525291db473": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17768773091623__d3515f02-56b6-4e33-8949-3525291db473-1676018581bf9c113c-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4514_test-1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/pages\/ss23-1-looks"
+          }
+        },
+        "template--17768773091623__d3515f02-56b6-4e33-8949-3525291db473-1676018581bf9c113c-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle_221_world_3_scan_8_final_7f310f47-333c-44f2-992a-29a7a8ce96fe.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/pages\/world"
+          }
+        }
+      },
+      "block_order": [
+        "template--17768773091623__d3515f02-56b6-4e33-8949-3525291db473-1676018581bf9c113c-0",
+        "template--17768773091623__d3515f02-56b6-4e33-8949-3525291db473-1676018581bf9c113c-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "53f9644f-b845-4a96-a5b9-61c04f5ee7dc",
+    "8b3e15c1-f77f-4ddc-a216-59f4123684d9",
+    "d3515f02-56b6-4e33-8949-3525291db473"
+  ]
+}
