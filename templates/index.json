@@ -54,14 +54,14 @@
         "391cd41c-4b9a-4d73-beb9-0b6b304ef714": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle-SS23-221-looks-1-35.jpg",
-            "image_padding": false
+            "image": "shopify:\/\/shop_images\/KakaoTalk_20230210_174008114.jpg",
+            "image_padding": true
           }
         },
         "cdaf6d24-ae66-4575-a314-35b23894a9a0": {
           "type": "product",
           "settings": {
-            "product": "hooded-jacket-double-black",
+            "product": "field-shirt-soot",
             "second_image": false
           }
         },
