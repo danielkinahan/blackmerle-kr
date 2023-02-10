@@ -96,25 +96,25 @@
             "image_padding": false
           }
         },
-        "template--17768773091623__8b3e15c1-f77f-4ddc-a216-59f4123684d9-16760092108076d400-1": {
-          "type": "product",
-          "settings": {
-            "product": "mid-jacket-lead",
-            "second_image": false
-          }
-        },
         "cdaf6d24-ae66-4575-a314-35b23894a9a0": {
           "type": "product",
           "settings": {
-            "product": "field-shirt-soot",
+            "product": "hooded-jacket-double-black",
+            "second_image": false
+          }
+        },
+        "template--17768773091623__8b3e15c1-f77f-4ddc-a216-59f4123684d9-16760092108076d400-1": {
+          "type": "product",
+          "settings": {
+            "product": "mid-jacket-carbon",
             "second_image": false
           }
         }
       },
       "block_order": [
         "391cd41c-4b9a-4d73-beb9-0b6b304ef714",
-        "template--17768773091623__8b3e15c1-f77f-4ddc-a216-59f4123684d9-16760092108076d400-1",
-        "cdaf6d24-ae66-4575-a314-35b23894a9a0"
+        "cdaf6d24-ae66-4575-a314-35b23894a9a0",
+        "template--17768773091623__8b3e15c1-f77f-4ddc-a216-59f4123684d9-16760092108076d400-1"
       ],
       "settings": {
         "heading": "",
