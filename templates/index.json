@@ -180,7 +180,7 @@
         "template--17768773091623__304f301f-8431-496e-b525-3532f7b1e981-16760092534d323a92-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/KakaoTalk_20230208_212050548_8a42a273-bfd6-4194-83dc-304ad685a417.jpg",
+            "image": "shopify:\/\/shop_images\/4514_test-1.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -190,19 +190,21 @@
         "template--17768773091623__304f301f-8431-496e-b525-3532f7b1e981-16760092534d323a92-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/blackmerle_221_world_2_hoodedjacket_detail_final_2048x2048_c63f0ffc-a0d4-458d-b642-bf6b1493375d.webp",
+            "title": "",
+            "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/pages\/ss23-1-release"
           }
         },
         "template--17768773091623__304f301f-8431-496e-b525-3532f7b1e981-16760092534d323a92-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/blackmerle_221_world_3_scan_8_final_7f310f47-333c-44f2-992a-29a7a8ce96fe.jpg",
+            "title": "",
+            "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/pages\/ss23-layers"
           }
         }
       },
