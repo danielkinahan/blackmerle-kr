@@ -48,58 +48,6 @@
         "padding_bottom": 16
       }
     },
-    "417c6528-d453-4cc3-bc8b-cc977efe9534": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "template--17768773091623__417c6528-d453-4cc3-bc8b-cc977efe9534-16760091168a8629bb-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "SS23 Now live",
-            "heading_size": "h2"
-          }
-        },
-        "template--17768773091623__417c6528-d453-4cc3-bc8b-cc977efe9534-16760091168a8629bb-1": {
-          "type": "text",
-          "settings": {
-            "text": "First release",
-            "text_style": "subtitle"
-          }
-        },
-        "template--17768773091623__417c6528-d453-4cc3-bc8b-cc977efe9534-16760091168a8629bb-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "shop",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--17768773091623__417c6528-d453-4cc3-bc8b-cc977efe9534-16760091168a8629bb-0",
-        "template--17768773091623__417c6528-d453-4cc3-bc8b-cc977efe9534-16760091168a8629bb-1",
-        "template--17768773091623__417c6528-d453-4cc3-bc8b-cc977efe9534-16760091168a8629bb-2"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/blackmerle-looks-2-4.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
-      }
-    },
     "8b3e15c1-f77f-4ddc-a216-59f4123684d9": {
       "type": "collage",
       "blocks": {
@@ -144,7 +92,6 @@
   },
   "order": [
     "53f9644f-b845-4a96-a5b9-61c04f5ee7dc",
-    "417c6528-d453-4cc3-bc8b-cc977efe9534",
     "8b3e15c1-f77f-4ddc-a216-59f4123684d9"
   ]
 }
