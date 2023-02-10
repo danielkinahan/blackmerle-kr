@@ -31,9 +31,9 @@
         "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-2"
       ],
       "custom_css": [
-        "h2 {font-size: 16px; color: #ffffff;}",
-        "p {font-size: 16px; color: #ffffff;}",
-        ".image-with-text__content {background-color: #aaaaaa;}"
+        "h2 {font-size: 16px; color: #000000;}",
+        "p {font-size: 16px; color: #000000;}",
+        ".image-with-text__content {background-color: #ffffff;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/blackmerle-looks-2-4.jpg",
