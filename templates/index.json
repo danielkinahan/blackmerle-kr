@@ -14,7 +14,7 @@
         "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-1": {
           "type": "text",
           "settings": {
-            "text": "<p><a href=\"\/collections\/shop\" title=\"shop\">Pair text with an image to focus on your chosen product, collection, or blog post.<\/a><\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<\/p>",
             "text_style": "body"
           }
         },
