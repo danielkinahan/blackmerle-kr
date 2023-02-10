@@ -44,8 +44,8 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
-        "padding_top": 0,
-        "padding_bottom": 16
+        "padding_top": 28,
+        "padding_bottom": 28
       }
     },
     "8b3e15c1-f77f-4ddc-a216-59f4123684d9": {
@@ -85,8 +85,8 @@
         "mobile_layout": "collage",
         "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
-        "padding_top": 16,
-        "padding_bottom": 32
+        "padding_top": 28,
+        "padding_bottom": 28
       }
     }
   },
