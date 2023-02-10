@@ -59,7 +59,7 @@
         "04ea3dea-cd59-4307-844e-8738d528e44e": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle-SS23-221-looks-1-4.jpg",
+            "image": "shopify:\/\/shop_images\/blackmerle-looks-2-1-1x1.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -72,7 +72,7 @@
       ],
       "settings": {
         "title": "",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
