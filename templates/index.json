@@ -147,7 +147,7 @@
         "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "view",
             "button_link": "shopify:\/\/pages\/ss23-1-looks"
           }
         }
@@ -156,6 +156,9 @@
         "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-0",
         "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-1",
         "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-2"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/KakaoTalk_20230208_212050548_8a42a273-bfd6-4194-83dc-304ad685a417.jpg",
