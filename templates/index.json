@@ -3,30 +3,22 @@
     "53f9644f-b845-4a96-a5b9-61c04f5ee7dc": {
       "type": "image-with-text",
       "blocks": {
-        "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "looks",
-            "heading_size": "h1"
-          }
-        },
         "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-1": {
           "type": "text",
           "settings": {
-            "text": "<p><a>Pair text with an image to focus on your chosen product, collection, or blog post.<\/a><\/p>",
+            "text": "<p><a href=\"\/collections\/shop\" title=\"shop\">Pair text with an image to focus on your chosen product, collection, or blog post.<\/a><\/p>",
             "text_style": "body"
           }
         },
         "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-2": {
           "type": "button",
           "settings": {
-            "button_label": "view",
+            "button_label": "shop",
             "button_link": "shopify:\/\/pages\/ss23-1-looks"
           }
         }
       },
       "block_order": [
-        "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-0",
         "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-1",
         "template--17768773091623__53f9644f-b845-4a96-a5b9-61c04f5ee7dc-1676009232a682c476-2"
       ],
@@ -34,7 +26,7 @@
 
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/KakaoTalk_20230208_212050548_8a42a273-bfd6-4194-83dc-304ad685a417.jpg",
+        "image": "shopify:\/\/shop_images\/blackmerle-looks-2-4.jpg",
         "height": "adapt",
         "desktop_image_width": "large",
         "layout": "text_first",
