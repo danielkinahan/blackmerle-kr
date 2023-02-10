@@ -170,16 +170,6 @@
         "padding_bottom": 36
       }
     },
-    "fe08875f-c447-43df-9d0d-95b6007673a2": {
-      "type": "page",
-      "settings": {
-        "page": "ss23-1-release",
-        "heading_size": "h1",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "304f301f-8431-496e-b525-3532f7b1e981": {
       "type": "multicolumn",
       "blocks": {
@@ -239,7 +229,6 @@
     "417c6528-d453-4cc3-bc8b-cc977efe9534",
     "8b3e15c1-f77f-4ddc-a216-59f4123684d9",
     "53f9644f-b845-4a96-a5b9-61c04f5ee7dc",
-    "fe08875f-c447-43df-9d0d-95b6007673a2",
     "304f301f-8431-496e-b525-3532f7b1e981"
   ]
 }
