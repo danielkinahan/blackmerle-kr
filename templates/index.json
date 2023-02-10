@@ -180,10 +180,11 @@
         "template--17768773091623__304f301f-8431-496e-b525-3532f7b1e981-16760092534d323a92-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/KakaoTalk_20230208_212050548_8a42a273-bfd6-4194-83dc-304ad685a417.jpg",
+            "title": "looks",
+            "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/pages\/ss23-1-looks"
           }
         },
         "template--17768773091623__304f301f-8431-496e-b525-3532f7b1e981-16760092534d323a92-1": {
@@ -211,14 +212,14 @@
         "template--17768773091623__304f301f-8431-496e-b525-3532f7b1e981-16760092534d323a92-2"
       ],
       "settings": {
-        "title": "Multicolumn",
-        "heading_size": "h1",
+        "title": "",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 1,
         "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
+        "background_style": "none",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
