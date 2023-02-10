@@ -93,7 +93,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/KakaoTalk_20230208_212050548.jpg",
-            "image_padding": true
+            "image_padding": false
           }
         },
         "template--17768773091623__8b3e15c1-f77f-4ddc-a216-59f4123684d9-16760092108076d400-1": {
@@ -106,7 +106,7 @@
         "cdaf6d24-ae66-4575-a314-35b23894a9a0": {
           "type": "product",
           "settings": {
-            "product": "fatigue-pants-carbon",
+            "product": "field-shirt-soot",
             "second_image": false
           }
         }
