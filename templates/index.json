@@ -69,6 +69,9 @@
         "template--17768773091623__417c6528-d453-4cc3-bc8b-cc977efe9534-16760091168a8629bb-1",
         "template--17768773091623__417c6528-d453-4cc3-bc8b-cc977efe9534-16760091168a8629bb-2"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/blackmerle-looks-2-4.jpg",
         "image_overlay_opacity": 0,
@@ -130,7 +133,7 @@
         "template--17768773091623__34c0d19a-6364-4fc3-b055-81eee51eb4ff-1676009215ac5e9561-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "shop"
           }
         },
         "template--17768773091623__34c0d19a-6364-4fc3-b055-81eee51eb4ff-1676009215ac5e9561-1": {
@@ -150,6 +153,9 @@
         "template--17768773091623__34c0d19a-6364-4fc3-b055-81eee51eb4ff-1676009215ac5e9561-0",
         "template--17768773091623__34c0d19a-6364-4fc3-b055-81eee51eb4ff-1676009215ac5e9561-1",
         "template--17768773091623__34c0d19a-6364-4fc3-b055-81eee51eb4ff-1676009215ac5e9561-2"
+      ],
+      "custom_css": [
+        "h3 {font-size: 64px;}"
       ],
       "settings": {
         "title": "Collections",
