@@ -67,16 +67,6 @@
     "9b9d55c8-04b2-466a-867d-e79cf6a8a9d2": {
       "type": "multicolumn",
       "blocks": {
-        "9240b7c5-661f-4095-8cb3-ce20a6445798": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/mid_lead-11_47f10499-f76f-4373-8ac6-acd44bf68d6a.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/products\/collarless-jacket-lead"
-          }
-        },
         "87c47802-7cbb-4034-996e-b6caaf9c6eea": {
           "type": "column",
           "settings": {
@@ -95,6 +85,16 @@
             "text": "",
             "link_label": "",
             "link": "shopify:\/\/products\/fatigue-pants-lead"
+          }
+        },
+        "9240b7c5-661f-4095-8cb3-ce20a6445798": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mid_lead-11_47f10499-f76f-4373-8ac6-acd44bf68d6a.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/collarless-jacket-lead"
           }
         },
         "template--17768773091623__9b9d55c8-04b2-466a-867d-e79cf6a8a9d2-1676270077c235e67e-0": {
@@ -151,9 +151,9 @@
         }
       },
       "block_order": [
-        "9240b7c5-661f-4095-8cb3-ce20a6445798",
         "87c47802-7cbb-4034-996e-b6caaf9c6eea",
         "21f5287c-8b52-4b8a-9747-0ab4b6bb3b66",
+        "9240b7c5-661f-4095-8cb3-ce20a6445798",
         "template--17768773091623__9b9d55c8-04b2-466a-867d-e79cf6a8a9d2-1676270077c235e67e-0",
         "6589f0dc-b06b-405d-82b2-3ff43b4845e9",
         "1397d12f-0cd6-431d-ae5a-a5233b47da48",
