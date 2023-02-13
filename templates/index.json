@@ -64,52 +64,6 @@
         "padding_bottom": 28
       }
     },
-    "d3515f02-56b6-4e33-8949-3525291db473": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "template--17768773091623__d3515f02-56b6-4e33-8949-3525291db473-1676018581bf9c113c-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/4514_test-1.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/pages\/ss23-1-looks"
-          }
-        },
-        "template--17768773091623__d3515f02-56b6-4e33-8949-3525291db473-1676018581bf9c113c-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_221_world_3_scan_8_final_7f310f47-333c-44f2-992a-29a7a8ce96fe.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/pages\/world"
-          }
-        }
-      },
-      "block_order": [
-        "template--17768773091623__d3515f02-56b6-4e33-8949-3525291db473-1676018581bf9c113c-0",
-        "template--17768773091623__d3515f02-56b6-4e33-8949-3525291db473-1676018581bf9c113c-1"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 28,
-        "padding_bottom": 28
-      }
-    },
     "9b9d55c8-04b2-466a-867d-e79cf6a8a9d2": {
       "type": "multicolumn",
       "blocks": {
@@ -155,32 +109,33 @@
         "padding_bottom": 36
       }
     },
-    "7ab72d17-d2bc-4062-b8fd-81526d3f79f6": {
+    "d3515f02-56b6-4e33-8949-3525291db473": {
       "type": "multicolumn",
       "blocks": {
-        "template--17768773091623__7ab72d17-d2bc-4062-b8fd-81526d3f79f6-1676270077c235e67e-2": {
+        "template--17768773091623__d3515f02-56b6-4e33-8949-3525291db473-1676018581bf9c113c-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/4514_test-1.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/pages\/ss23-1-looks"
           }
         },
-        "template--17768773091623__7ab72d17-d2bc-4062-b8fd-81526d3f79f6-1676270077c235e67e-0": {
+        "template--17768773091623__d3515f02-56b6-4e33-8949-3525291db473-1676018581bf9c113c-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4563_test-3.jpg",
+            "image": "shopify:\/\/shop_images\/blackmerle_221_world_3_scan_8_final_7f310f47-333c-44f2-992a-29a7a8ce96fe.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/pages\/world"
           }
         }
       },
       "block_order": [
-        "template--17768773091623__7ab72d17-d2bc-4062-b8fd-81526d3f79f6-1676270077c235e67e-2",
-        "template--17768773091623__7ab72d17-d2bc-4062-b8fd-81526d3f79f6-1676270077c235e67e-0"
+        "template--17768773091623__d3515f02-56b6-4e33-8949-3525291db473-1676018581bf9c113c-0",
+        "template--17768773091623__d3515f02-56b6-4e33-8949-3525291db473-1676018581bf9c113c-1"
       ],
       "settings": {
         "title": "",
@@ -193,52 +148,21 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 28,
+        "padding_bottom": 28
       }
     },
-    "2120479c-32b0-499e-b437-4633c5fccf22": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--17768773091623__2120479c-32b0-499e-b437-4633c5fccf22-1676270077c235e67e-0": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--17768773091623__2120479c-32b0-499e-b437-4633c5fccf22-1676270077c235e67e-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/5043_test-1.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--17768773091623__2120479c-32b0-499e-b437-4633c5fccf22-1676270077c235e67e-0",
-        "template--17768773091623__2120479c-32b0-499e-b437-4633c5fccf22-1676270077c235e67e-2"
-      ],
+    "12e5c7c7-dd54-4c5c-bf01-e792a3958066": {
+      "type": "featured-product",
       "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
+        "product": "collarless-jacket-lead",
         "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "secondary_background": false,
+        "media_position": "left",
+        "hide_variants": false,
+        "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -247,9 +171,8 @@
   "order": [
     "53f9644f-b845-4a96-a5b9-61c04f5ee7dc",
     "8b3e15c1-f77f-4ddc-a216-59f4123684d9",
-    "d3515f02-56b6-4e33-8949-3525291db473",
     "9b9d55c8-04b2-466a-867d-e79cf6a8a9d2",
-    "7ab72d17-d2bc-4062-b8fd-81526d3f79f6",
-    "2120479c-32b0-499e-b437-4633c5fccf22"
+    "d3515f02-56b6-4e33-8949-3525291db473",
+    "12e5c7c7-dd54-4c5c-bf01-e792a3958066"
   ]
 }
