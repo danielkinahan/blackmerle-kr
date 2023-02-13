@@ -1,69 +1,5 @@
 {
   "sections": {
-    "53f9644f-b845-4a96-a5b9-61c04f5ee7dc": {
-      "type": "image-with-text",
-      "disabled": true,
-      "custom_css": [
-        "h2 {font-size: 16px; color: #000000;}",
-        "p {font-size: 16px; color: #000000;}",
-        ".image-with-text__content {background-color: #ffffff;}"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/blackmerle-looks-2-4.jpg",
-        "height": "adapt",
-        "desktop_image_width": "large",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "padding_top": 28,
-        "padding_bottom": 28
-      }
-    },
-    "8b3e15c1-f77f-4ddc-a216-59f4123684d9": {
-      "type": "collage",
-      "disabled": true,
-      "blocks": {
-        "391cd41c-4b9a-4d73-beb9-0b6b304ef714": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/KakaoTalk_20230210_174008114.jpg",
-            "image_padding": true
-          }
-        },
-        "cdaf6d24-ae66-4575-a314-35b23894a9a0": {
-          "type": "product",
-          "settings": {
-            "product": "field-shirt-soot",
-            "second_image": false
-          }
-        },
-        "template--17768773091623__8b3e15c1-f77f-4ddc-a216-59f4123684d9-16760092108076d400-1": {
-          "type": "product",
-          "settings": {
-            "product": "rider-pants-wet-stone",
-            "second_image": false
-          }
-        }
-      },
-      "block_order": [
-        "391cd41c-4b9a-4d73-beb9-0b6b304ef714",
-        "cdaf6d24-ae66-4575-a314-35b23894a9a0",
-        "template--17768773091623__8b3e15c1-f77f-4ddc-a216-59f4123684d9-16760092108076d400-1"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "none",
-        "color_scheme": "background-1",
-        "padding_top": 28,
-        "padding_bottom": 28
-      }
-    },
     "9b9d55c8-04b2-466a-867d-e79cf6a8a9d2": {
       "type": "multicolumn",
       "blocks": {
@@ -100,17 +36,16 @@
         "9240b7c5-661f-4095-8cb3-ce20a6445798": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mid_lead-11_47f10499-f76f-4373-8ac6-acd44bf68d6a.jpg",
+            "image": "shopify:\/\/shop_images\/blackmerle-SS23-221-looks-1-6-f_c1c69e63-c97c-47af-bf88-2044fb28ac9a.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/products\/collarless-jacket-lead"
+            "link": "shopify:\/\/pages\/ss23-1-looks"
           }
         },
         "template--17768773091623__9b9d55c8-04b2-466a-867d-e79cf6a8a9d2-1676270077c235e67e-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_riderpants_wetstone_LR-10_e813950a-0bf6-4bb6-b3b8-dcb1c831689b.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -120,7 +55,6 @@
         "6589f0dc-b06b-405d-82b2-3ff43b4845e9": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle-SS23-221-looks-1-6-f_1b45b2a5-1f97-4d57-9817-8dcdaf6edcee.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -225,8 +159,6 @@
     }
   },
   "order": [
-    "53f9644f-b845-4a96-a5b9-61c04f5ee7dc",
-    "8b3e15c1-f77f-4ddc-a216-59f4123684d9",
     "9b9d55c8-04b2-466a-867d-e79cf6a8a9d2",
     "d3515f02-56b6-4e33-8949-3525291db473"
   ]
