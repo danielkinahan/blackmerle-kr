@@ -116,20 +116,21 @@
         "template--17768773091623__9b9d55c8-04b2-466a-867d-e79cf6a8a9d2-1676270077c235e67e-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_221_newsletter_1_alt_final.jpg",
+            "image": "shopify:\/\/shop_images\/blackmerle_riderpants_wetstone_LR-10.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/pages\/ss23-layers"
+            "link": "shopify:\/\/products\/rider-pants-wet-stone"
           }
         },
         "9240b7c5-661f-4095-8cb3-ce20a6445798": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/mid_lead-11.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/products\/collarless-jacket-lead"
           }
         }
       },
