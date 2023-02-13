@@ -153,26 +153,12 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
-    },
-    "12e5c7c7-dd54-4c5c-bf01-e792a3958066": {
-      "type": "featured-product",
-      "settings": {
-        "product": "collarless-jacket-lead",
-        "color_scheme": "background-1",
-        "secondary_background": false,
-        "media_position": "left",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "53f9644f-b845-4a96-a5b9-61c04f5ee7dc",
     "8b3e15c1-f77f-4ddc-a216-59f4123684d9",
     "9b9d55c8-04b2-466a-867d-e79cf6a8a9d2",
-    "d3515f02-56b6-4e33-8949-3525291db473",
-    "12e5c7c7-dd54-4c5c-bf01-e792a3958066"
+    "d3515f02-56b6-4e33-8949-3525291db473"
   ]
 }
