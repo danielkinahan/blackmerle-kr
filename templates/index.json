@@ -70,7 +70,7 @@
         "template--17768773091623__9b9d55c8-04b2-466a-867d-e79cf6a8a9d2-1676270077c235e67e-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_riderpants_wetstone_LR-10_ba03ef1e-3663-4336-9ac5-d56fde60c736.jpg",
+            "image": "shopify:\/\/shop_images\/blackmerle_riderpants_wetstone_LR-10_4998974b-5a82-4c74-bfb4-804f121b06fa.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -80,37 +80,37 @@
         "9240b7c5-661f-4095-8cb3-ce20a6445798": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mid_lead-11_44a6e7cb-9c83-4760-a7c6-ae21aadf6ef8.jpg",
+            "image": "shopify:\/\/shop_images\/mid_lead-11_b733145d-e0c1-40a8-8592-6eaf7f8a05ff.jpg",
             "title": "",
             "text": "",
             "link_label": "",
             "link": "shopify:\/\/products\/collarless-jacket-lead"
           }
         },
-        "1397d12f-0cd6-431d-ae5a-a5233b47da48": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_layers_LR-10.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/pages\/ss23-layers"
-          }
-        },
         "6589f0dc-b06b-405d-82b2-3ff43b4845e9": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle-SS23-221-looks-1-6-f.jpg",
+            "image": "shopify:\/\/shop_images\/blackmerle-SS23-221-looks-1-6-f_48e04dce-24f7-49af-a490-d18d7ee2751d.jpg",
             "title": "",
             "text": "",
             "link_label": "",
             "link": "shopify:\/\/pages\/ss23-1-looks"
           }
         },
+        "1397d12f-0cd6-431d-ae5a-a5233b47da48": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle_layers_LR-10_f1914101-64c6-4423-938f-6c8ebafa8c25.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/pages\/ss23-layers"
+          }
+        },
         "87c47802-7cbb-4034-996e-b6caaf9c6eea": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mid_carbon-13.jpg",
+            "image": "shopify:\/\/shop_images\/mid_carbon-13_ac282aae-77f5-4cb6-9d74-e99653c9316f.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -120,7 +120,7 @@
         "21f5287c-8b52-4b8a-9747-0ab4b6bb3b66": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/wide_lead_uncropped-6.jpg",
+            "image": "shopify:\/\/shop_images\/wide_lead_uncropped-6_fc9cc187-4d7f-4988-988f-5d5686e41ae3.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -153,8 +153,8 @@
       "block_order": [
         "template--17768773091623__9b9d55c8-04b2-466a-867d-e79cf6a8a9d2-1676270077c235e67e-0",
         "9240b7c5-661f-4095-8cb3-ce20a6445798",
-        "1397d12f-0cd6-431d-ae5a-a5233b47da48",
         "6589f0dc-b06b-405d-82b2-3ff43b4845e9",
+        "1397d12f-0cd6-431d-ae5a-a5233b47da48",
         "87c47802-7cbb-4034-996e-b6caaf9c6eea",
         "21f5287c-8b52-4b8a-9747-0ab4b6bb3b66",
         "f426b93e-6a65-47a5-8f4d-58260268c919",
