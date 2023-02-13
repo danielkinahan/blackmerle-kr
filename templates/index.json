@@ -129,6 +129,7 @@
         },
         "f426b93e-6a65-47a5-8f4d-58260268c919": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/blackmerle_221_world_2_hoodedjacket_detail_final.jpg",
             "title": "",
@@ -139,6 +140,7 @@
         },
         "2cf91a27-1bb4-4f4a-85d3-811f2dd2b061": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/blackmerle-looks-2-1-1x1main.jpg",
             "title": "",
