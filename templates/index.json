@@ -70,7 +70,7 @@
         "template--17768773091623__9b9d55c8-04b2-466a-867d-e79cf6a8a9d2-1676270077c235e67e-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_riderpants_wetstone_LR-10_f74dde2b-6668-4037-b915-9b49e09e62db.jpg",
+            "image": "shopify:\/\/shop_images\/blackmerle_riderpants_wetstone_LR-10_ba03ef1e-3663-4336-9ac5-d56fde60c736.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -80,11 +80,21 @@
         "9240b7c5-661f-4095-8cb3-ce20a6445798": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mid_lead-11_126096e5-7436-4d95-b286-2438ba50d457.jpg",
+            "image": "shopify:\/\/shop_images\/mid_lead-11_44a6e7cb-9c83-4760-a7c6-ae21aadf6ef8.jpg",
             "title": "",
             "text": "",
             "link_label": "",
             "link": "shopify:\/\/products\/collarless-jacket-lead"
+          }
+        },
+        "1397d12f-0cd6-431d-ae5a-a5233b47da48": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle_layers_LR-10.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/pages\/ss23-layers"
           }
         },
         "6589f0dc-b06b-405d-82b2-3ff43b4845e9": {
@@ -95,16 +105,6 @@
             "text": "",
             "link_label": "",
             "link": "shopify:\/\/pages\/ss23-1-looks"
-          }
-        },
-        "1397d12f-0cd6-431d-ae5a-a5233b47da48": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_221_world_3_scan_1_final_1.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/pages\/ss23-layers"
           }
         },
         "87c47802-7cbb-4034-996e-b6caaf9c6eea": {
@@ -153,8 +153,8 @@
       "block_order": [
         "template--17768773091623__9b9d55c8-04b2-466a-867d-e79cf6a8a9d2-1676270077c235e67e-0",
         "9240b7c5-661f-4095-8cb3-ce20a6445798",
-        "6589f0dc-b06b-405d-82b2-3ff43b4845e9",
         "1397d12f-0cd6-431d-ae5a-a5233b47da48",
+        "6589f0dc-b06b-405d-82b2-3ff43b4845e9",
         "87c47802-7cbb-4034-996e-b6caaf9c6eea",
         "21f5287c-8b52-4b8a-9747-0ab4b6bb3b66",
         "f426b93e-6a65-47a5-8f4d-58260268c919",
