@@ -67,6 +67,16 @@
     "9b9d55c8-04b2-466a-867d-e79cf6a8a9d2": {
       "type": "multicolumn",
       "blocks": {
+        "9240b7c5-661f-4095-8cb3-ce20a6445798": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mid_lead-11_47f10499-f76f-4373-8ac6-acd44bf68d6a.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/collarless-jacket-lead"
+          }
+        },
         "87c47802-7cbb-4034-996e-b6caaf9c6eea": {
           "type": "column",
           "settings": {
@@ -75,16 +85,6 @@
             "text": "",
             "link_label": "",
             "link": "shopify:\/\/products\/collarless-jacket-lead"
-          }
-        },
-        "1397d12f-0cd6-431d-ae5a-a5233b47da48": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_layers_LR-10_46f0fd40-004b-4967-adb4-2a62d948f2fa.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/pages\/ss23-layers"
           }
         },
         "21f5287c-8b52-4b8a-9747-0ab4b6bb3b66": {
@@ -97,16 +97,6 @@
             "link": "shopify:\/\/products\/fatigue-pants-lead"
           }
         },
-        "6589f0dc-b06b-405d-82b2-3ff43b4845e9": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle-SS23-221-looks-1-6-f_1b45b2a5-1f97-4d57-9817-8dcdaf6edcee.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/pages\/ss23-1-looks"
-          }
-        },
         "template--17768773091623__9b9d55c8-04b2-466a-867d-e79cf6a8a9d2-1676270077c235e67e-0": {
           "type": "column",
           "settings": {
@@ -117,14 +107,24 @@
             "link": "shopify:\/\/products\/rider-pants-wet-stone"
           }
         },
-        "9240b7c5-661f-4095-8cb3-ce20a6445798": {
+        "6589f0dc-b06b-405d-82b2-3ff43b4845e9": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mid_lead-11_47f10499-f76f-4373-8ac6-acd44bf68d6a.jpg",
+            "image": "shopify:\/\/shop_images\/blackmerle-SS23-221-looks-1-6-f_1b45b2a5-1f97-4d57-9817-8dcdaf6edcee.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/products\/collarless-jacket-lead"
+            "link": "shopify:\/\/pages\/ss23-1-looks"
+          }
+        },
+        "1397d12f-0cd6-431d-ae5a-a5233b47da48": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle_layers_LR-10_46f0fd40-004b-4967-adb4-2a62d948f2fa.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/pages\/ss23-layers"
           }
         },
         "f426b93e-6a65-47a5-8f4d-58260268c919": {
@@ -151,12 +151,12 @@
         }
       },
       "block_order": [
-        "87c47802-7cbb-4034-996e-b6caaf9c6eea",
-        "1397d12f-0cd6-431d-ae5a-a5233b47da48",
-        "21f5287c-8b52-4b8a-9747-0ab4b6bb3b66",
-        "6589f0dc-b06b-405d-82b2-3ff43b4845e9",
-        "template--17768773091623__9b9d55c8-04b2-466a-867d-e79cf6a8a9d2-1676270077c235e67e-0",
         "9240b7c5-661f-4095-8cb3-ce20a6445798",
+        "87c47802-7cbb-4034-996e-b6caaf9c6eea",
+        "21f5287c-8b52-4b8a-9747-0ab4b6bb3b66",
+        "template--17768773091623__9b9d55c8-04b2-466a-867d-e79cf6a8a9d2-1676270077c235e67e-0",
+        "6589f0dc-b06b-405d-82b2-3ff43b4845e9",
+        "1397d12f-0cd6-431d-ae5a-a5233b47da48",
         "f426b93e-6a65-47a5-8f4d-58260268c919",
         "2cf91a27-1bb4-4f4a-85d3-811f2dd2b061"
       ],
