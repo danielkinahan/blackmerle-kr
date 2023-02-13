@@ -123,7 +123,7 @@
             "link": ""
           }
         },
-        "d32e0e77-5fe3-4f88-b629-dc75e30eea55": {
+        "9240b7c5-661f-4095-8cb3-ce20a6445798": {
           "type": "column",
           "settings": {
             "title": "",
@@ -135,14 +135,14 @@
       },
       "block_order": [
         "template--17768773091623__9b9d55c8-04b2-466a-867d-e79cf6a8a9d2-1676270077c235e67e-0",
-        "d32e0e77-5fe3-4f88-b629-dc75e30eea55"
+        "9240b7c5-661f-4095-8cb3-ce20a6445798"
       ],
       "settings": {
         "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 1,
+        "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
@@ -157,6 +157,15 @@
     "7ab72d17-d2bc-4062-b8fd-81526d3f79f6": {
       "type": "multicolumn",
       "blocks": {
+        "template--17768773091623__7ab72d17-d2bc-4062-b8fd-81526d3f79f6-1676270077c235e67e-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "template--17768773091623__7ab72d17-d2bc-4062-b8fd-81526d3f79f6-1676270077c235e67e-0": {
           "type": "column",
           "settings": {
@@ -166,20 +175,11 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "template--17768773091623__7ab72d17-d2bc-4062-b8fd-81526d3f79f6-1676270077c235e67e-2": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "template--17768773091623__7ab72d17-d2bc-4062-b8fd-81526d3f79f6-1676270077c235e67e-0",
-        "template--17768773091623__7ab72d17-d2bc-4062-b8fd-81526d3f79f6-1676270077c235e67e-2"
+        "template--17768773091623__7ab72d17-d2bc-4062-b8fd-81526d3f79f6-1676270077c235e67e-2",
+        "template--17768773091623__7ab72d17-d2bc-4062-b8fd-81526d3f79f6-1676270077c235e67e-0"
       ],
       "settings": {
         "title": "",
