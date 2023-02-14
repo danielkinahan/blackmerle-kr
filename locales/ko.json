@@ -247,10 +247,10 @@
       "taxes_included_and_shipping_policy_html": "세금이 포함된 가격입니다. 결제 시 <a href=\"{{ link }}\">배송료<\/a> 가 계산됨",
       "taxes_and_shipping_at_checkout": "결제 시 세금 및 배송료가 계산됨",
       "headings": {
-        "product": "제품",
+        "product": "",
         "price": "가격",
-        "total": "총계",
-        "quantity": "수량",
+        "total": "",
+        "quantity": "",
         "image": "제품 이미지"
       },
       "update": "업데이트",
