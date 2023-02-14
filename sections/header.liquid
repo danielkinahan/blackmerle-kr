@@ -50,7 +50,7 @@
   @media screen and (max-width: 749px){
     .header__heading-link{
       letter-spacing: 0rem;
-      font-size: 11px;
+      font-size: 12px;
       word-break: unset;
     }
   }
@@ -432,10 +432,10 @@
       {%- endif -%}
     {%- endif -%}
 
-    <div class="header__icons" style="font-weight: bold;">
+    <div class="header__icons" style="font-weight: 500;">
       <a href="https://kr.blackmerle.com{{ request.path }}" class="header__heading-link">KR</a>
       /
-      <a href="https://blackmerle.com{{ request.path }}" class="header__heading-link" style="padding: 0.66rem;">INT</a>
+      <a href="https://blackmerle.com{{ request.path }}" class="header__heading-link">INT</a>
       {%- if shop.customer_accounts_enabled -%}
         <a href="{%- if customer -%}{{ routes.account_url }}{%- else -%}{{ routes.account_login_url }}{%- endif -%}" class="header__icon header__icon--account link focus-inset{% if section.settings.menu != blank %} small-hide{% endif %}">
           {% render 'icon-account' %}
