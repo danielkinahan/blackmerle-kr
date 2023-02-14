@@ -46,19 +46,21 @@
         "template--17768773091623__9b9d55c8-04b2-466a-867d-e79cf6a8a9d2-1676270077c235e67e-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle_hoodedjacket_ratgrey-15-TH.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/products\/rider-pants-wet-stone"
+            "link": "shopify:\/\/products\/hooded-jacket-rat-grey"
           }
         },
         "6589f0dc-b06b-405d-82b2-3ff43b4845e9": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle_riderpants_wetstone_LR-3-TH.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/pages\/ss23-1-looks"
+            "link": "shopify:\/\/products\/rider-pants-wet-stone"
           }
         },
         "f426b93e-6a65-47a5-8f4d-58260268c919": {
