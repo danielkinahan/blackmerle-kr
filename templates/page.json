@@ -21,7 +21,7 @@
         "template--17768773976359__dcc17c22-b0ce-4f4a-9554-c8607b5709ce-16763487243915a524-1"
       ],
       "custom_css": [
-        "{font-size: 12px; color: white;}"
+        "{font-size: 12px; color: #000000;}"
       ],
       "settings": {
         "desktop_content_position": "center",
