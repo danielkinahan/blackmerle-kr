@@ -1,13 +1,5 @@
 {
   "sections": {
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "dcc17c22-b0ce-4f4a-9554-c8607b5709ce": {
       "type": "rich-text",
       "blocks": {
@@ -32,10 +24,18 @@
         "padding_top": 100,
         "padding_bottom": 100
       }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
-    "main",
-    "dcc17c22-b0ce-4f4a-9554-c8607b5709ce"
+    "dcc17c22-b0ce-4f4a-9554-c8607b5709ce",
+    "main"
   ]
 }
