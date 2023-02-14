@@ -1,1 +1,37 @@
-{"sections":{"main":{"type":"main-page","settings":{"padding_top":0,"padding_bottom":0}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "dcc17c22-b0ce-4f4a-9554-c8607b5709ce": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17768773976359__dcc17c22-b0ce-4f4a-9554-c8607b5709ce-16763487243915a524-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Garments with a transgressive undercurrent for the urban environment. With a focus on materiality and layered wear, items synergize as parts of a greater whole for a look that both blends in and stands out.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17768773976359__dcc17c22-b0ce-4f4a-9554-c8607b5709ce-16763487243915a524-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "dcc17c22-b0ce-4f4a-9554-c8607b5709ce"
+  ]
+}
