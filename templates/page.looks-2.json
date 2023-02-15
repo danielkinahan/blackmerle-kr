@@ -8,6 +8,40 @@
         "padding_bottom": 16
       }
     },
+    "23b196ab-1e48-4cf3-a62d-330caaaaad7b": {
+      "type": "multicolumn",
+      "blocks": {
+        "04ea3dea-cd59-4307-844e-8738d528e44e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle-looks-2-1-1x1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "04ea3dea-cd59-4307-844e-8738d528e44e"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
     "e7616622-6a56-4c90-8bfd-3cdc87ea1e30": {
       "type": "multicolumn",
       "blocks": {
@@ -42,40 +76,6 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 48,
-        "padding_bottom": 48
-      }
-    },
-    "23b196ab-1e48-4cf3-a62d-330caaaaad7b": {
-      "type": "multicolumn",
-      "blocks": {
-        "04ea3dea-cd59-4307-844e-8738d528e44e": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle-looks-2-1-1x1.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "04ea3dea-cd59-4307-844e-8738d528e44e"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
@@ -165,8 +165,8 @@
   },
   "order": [
     "main",
-    "e7616622-6a56-4c90-8bfd-3cdc87ea1e30",
     "23b196ab-1e48-4cf3-a62d-330caaaaad7b",
+    "e7616622-6a56-4c90-8bfd-3cdc87ea1e30",
     "9af89b8a-3eb6-47b6-8342-b4e7e3da0c9c",
     "115aceb7-2030-4ba3-86a0-88fbc5c813f6",
     "7d7c7049-0643-40f4-b386-c8a49d422200"
