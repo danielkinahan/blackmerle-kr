@@ -438,7 +438,8 @@
         "cart": "장바구니",
         "continue_to_payment_method": "계속하기",
         "continue_to_shipping_method": "계속하기",
-        "all_rights_reserved": "All rights reserved ©2023 blackmerle"
+        "all_rights_reserved": "All rights reserved ©2023 blackmerle",
+        "pay_now_button_label": "결제하기"
       },
       "review": {
         "blocks": {
@@ -454,6 +455,18 @@
       },
       "processing": {
         "continue_to_payment_gateway_button_label": "계속하기"
+      },
+      "order_payment_collection": {
+        "pay_now": "결제하기"
+      }
+    }
+  },
+  "customer_accounts": {
+    "B2B": {
+      "draft_order_details": {
+        "payment_status": {
+          "pay_now": "결제하기"
+        }
       }
     }
   }
