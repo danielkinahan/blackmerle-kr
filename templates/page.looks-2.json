@@ -4,27 +4,35 @@
       "type": "main-page",
       "disabled": true,
       "settings": {
-        "padding_top": 32,
-        "padding_bottom": 16
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
-    "e7616622-6a56-4c90-8bfd-3cdc87ea1e30": {
+    "1664176334c2bc9e60": {
       "type": "multicolumn",
       "blocks": {
-        "2d428a96-ed26-458b-8d77-f377a86a6dc8": {
+        "8a46ca31-11c9-4e75-97db-e43b7e71f8ba": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle-looks-2-2.jpg",
+            "image": "shopify:\/\/shop_images\/blackmerle_looks_1_thumbnail_5x7_final.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/pages\/ss23-1-looks"
+          }
+        },
+        "0339894a-6f0f-4e20-b28c-524f82e764ac": {
+          "type": "column",
+          "settings": {
             "title": "",
             "text": "",
             "link_label": "",
             "link": ""
           }
         },
-        "75018764-d583-43e4-af81-440d84934cee": {
+        "c592a484-3af5-4a5c-aa91-c1432940b69e": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle-looks-2-3.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -33,90 +41,30 @@
         }
       },
       "block_order": [
-        "2d428a96-ed26-458b-8d77-f377a86a6dc8",
-        "75018764-d583-43e4-af81-440d84934cee"
+        "8a46ca31-11c9-4e75-97db-e43b7e71f8ba",
+        "0339894a-6f0f-4e20-b28c-524f82e764ac",
+        "c592a484-3af5-4a5c-aa91-c1432940b69e"
       ],
       "settings": {
         "title": "",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 2,
+        "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 48,
-        "padding_bottom": 68
-      }
-    },
-    "23b196ab-1e48-4cf3-a62d-330caaaaad7b": {
-      "type": "multicolumn",
-      "blocks": {
-        "04ea3dea-cd59-4307-844e-8738d528e44e": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle-looks-2-1-1x1.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "04ea3dea-cd59-4307-844e-8738d528e44e"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 48,
-        "padding_bottom": 68
-      }
-    },
-    "9af89b8a-3eb6-47b6-8342-b4e7e3da0c9c": {
-      "type": "collage",
-      "blocks": {
-        "4ebe086a-af61-487c-bc17-9adf2d72bbff": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle-looks-2-4.jpg",
-            "image_padding": false
-          }
-        }
-      },
-      "block_order": [
-        "4ebe086a-af61-487c-bc17-9adf2d72bbff"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "padding_top": 48,
-        "padding_bottom": 68
+        "padding_top": 16,
+        "padding_bottom": 0
       }
     }
   },
   "order": [
     "main",
-    "e7616622-6a56-4c90-8bfd-3cdc87ea1e30",
-    "23b196ab-1e48-4cf3-a62d-330caaaaad7b",
-    "9af89b8a-3eb6-47b6-8342-b4e7e3da0c9c"
+    "1664176334c2bc9e60"
   ]
 }
