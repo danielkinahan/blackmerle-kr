@@ -42,7 +42,7 @@
   }
 
   .header__heading-link:hover {
-    font-weight: 900;
+    text-shadow: 0.7px 0 0px black;
   }
 
   @media screen and (max-width: 749px){
@@ -431,9 +431,17 @@
     {%- endif -%}
 
     <div class="header__icons" style="font-weight: 525;">
-      <a href="https://kr.blackmerle.com{{ request.path }}" class="header__heading-link">KR</a>
+      <a href="https://kr.blackmerle.com{{ request.path }}" class="header__heading-link"
+        {%- if shop.url == "https://kr.blackmerle.com" -%}
+          style="text-shadow: 0.7px 0 black;"
+        {%- endif -%}
+        >KR</a>
       /
-      <a href="https://blackmerle.com{{ request.path }}" class="header__heading-link">INT</a>
+      <a href="https://blackmerle.com{{ request.path }}" class="header__heading-link"
+        {%- if shop.url == "https://blackmerle.com" -%}
+          style="text-shadow: 0.7px 0 black;"
+        {%- endif -%}
+        >INT</a>
       {%- if shop.customer_accounts_enabled -%}
         <a href="{%- if customer -%}{{ routes.account_url }}{%- else -%}{{ routes.account_login_url }}{%- endif -%}" class="header__icon header__icon--account link focus-inset{% if section.settings.menu != blank %} small-hide{% endif %}">
           {% render 'icon-account' %}
