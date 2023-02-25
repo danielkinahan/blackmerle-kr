@@ -74,10 +74,65 @@
         "padding_top": 40,
         "padding_bottom": 40
       }
+    },
+    "dcdd1818-3103-45e4-a9fa-dbd59601992a": {
+      "type": "slideshow",
+      "blocks": {
+        "template--17908850262311__dcdd1818-3103-45e4-a9fa-dbd59601992a-16773026520e5784f5-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle_ss23_looks_2_6494-s.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--17908850262311__dcdd1818-3103-45e4-a9fa-dbd59601992a-16773026520e5784f5-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle_ss23_looks_2_6224-s.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--17908850262311__dcdd1818-3103-45e4-a9fa-dbd59601992a-16773026520e5784f5-0",
+        "template--17908850262311__dcdd1818-3103-45e4-a9fa-dbd59601992a-16773026520e5784f5-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": false,
+        "accessibility_info": ""
+      }
     }
   },
   "order": [
     "main",
-    "1664176334c2bc9e60"
+    "1664176334c2bc9e60",
+    "dcdd1818-3103-45e4-a9fa-dbd59601992a"
   ]
 }
