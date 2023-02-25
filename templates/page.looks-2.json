@@ -120,9 +120,9 @@
         "template--17908850262311__dcdd1818-3103-45e4-a9fa-dbd59601992a-16773026520e5784f5-1"
       ],
       "settings": {
-        "layout": "full_bleed",
+        "layout": "grid",
         "slide_height": "adapt_image",
-        "slider_visual": "counter",
+        "slider_visual": "numbers",
         "auto_rotate": false,
         "change_slides_speed": 5,
         "show_text_below": false,
