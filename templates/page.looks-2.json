@@ -14,16 +14,17 @@
         "8a46ca31-11c9-4e75-97db-e43b7e71f8ba": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_looks_1_thumbnail_5x7_final.jpg",
+            "image": "shopify:\/\/shop_images\/blackmerle_ss23_looks_2_6066-s.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/pages\/ss23-1-looks"
+            "link": ""
           }
         },
         "0339894a-6f0f-4e20-b28c-524f82e764ac": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle_ss23_looks_2_6541-small.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -33,6 +34,17 @@
         "c592a484-3af5-4a5c-aa91-c1432940b69e": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle_ss23_looks_2_6224-s.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "98ee42da-cf16-4de3-844b-1a44e50cd24a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle_ss23_looks_2_6494-s.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -43,20 +55,21 @@
       "block_order": [
         "8a46ca31-11c9-4e75-97db-e43b7e71f8ba",
         "0339894a-6f0f-4e20-b28c-524f82e764ac",
-        "c592a484-3af5-4a5c-aa91-c1432940b69e"
+        "c592a484-3af5-4a5c-aa91-c1432940b69e",
+        "98ee42da-cf16-4de3-844b-1a44e50cd24a"
       ],
       "settings": {
         "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 16,
         "padding_bottom": 0
