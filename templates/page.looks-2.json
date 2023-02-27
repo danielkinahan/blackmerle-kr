@@ -11,10 +11,10 @@
     "1664176334c2bc9e60": {
       "type": "multicolumn",
       "blocks": {
-        "0339894a-6f0f-4e20-b28c-524f82e764ac": {
+        "3031a2d1-edc9-4f3b-aaa8-0b6209462861": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_ss23_looks_2_6224-S-3X4.jpg",
+            "image": "shopify:\/\/shop_images\/blackmerle_ss23_looks_2_6494-S-3X4.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -31,20 +31,10 @@
             "link": ""
           }
         },
-        "3031a2d1-edc9-4f3b-aaa8-0b6209462861": {
+        "0339894a-6f0f-4e20-b28c-524f82e764ac": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_ss23_looks_2_6494-S-3X4.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "c592a484-3af5-4a5c-aa91-c1432940b69e": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_ss23_looks_2_6541-S-3X4.jpg",
+            "image": "shopify:\/\/shop_images\/blackmerle_ss23_looks_2_6224-S-3X4.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -55,6 +45,16 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/blackmerle_ss23_looks_2_6624-S-3X4.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c592a484-3af5-4a5c-aa91-c1432940b69e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle_ss23_looks_2_6541-S-3X4.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -73,11 +73,11 @@
         }
       },
       "block_order": [
-        "0339894a-6f0f-4e20-b28c-524f82e764ac",
-        "98ee42da-cf16-4de3-844b-1a44e50cd24a",
         "3031a2d1-edc9-4f3b-aaa8-0b6209462861",
-        "c592a484-3af5-4a5c-aa91-c1432940b69e",
+        "98ee42da-cf16-4de3-844b-1a44e50cd24a",
+        "0339894a-6f0f-4e20-b28c-524f82e764ac",
         "441e850c-04d4-4a81-a347-75f45f326951",
+        "c592a484-3af5-4a5c-aa91-c1432940b69e",
         "c9f132f9-89fd-401a-859b-121fb0d68050"
       ],
       "settings": {
