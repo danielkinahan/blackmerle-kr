@@ -62,26 +62,6 @@
             "link_label": "",
             "link": "shopify:\/\/products\/rider-pants-wet-stone"
           }
-        },
-        "f426b93e-6a65-47a5-8f4d-58260268c919": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_221_world_2_hoodedjacket_detail_final.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/pages\/ss23-1-release"
-          }
-        },
-        "2cf91a27-1bb4-4f4a-85d3-811f2dd2b061": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle-looks-2-1-1x1main.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/pages\/ss23-flats"
-          }
         }
       },
       "block_order": [
@@ -90,9 +70,7 @@
         "9240b7c5-661f-4095-8cb3-ce20a6445798",
         "1397d12f-0cd6-431d-ae5a-a5233b47da48",
         "template--17768773091623__9b9d55c8-04b2-466a-867d-e79cf6a8a9d2-1676270077c235e67e-0",
-        "6589f0dc-b06b-405d-82b2-3ff43b4845e9",
-        "f426b93e-6a65-47a5-8f4d-58260268c919",
-        "2cf91a27-1bb4-4f4a-85d3-811f2dd2b061"
+        "6589f0dc-b06b-405d-82b2-3ff43b4845e9"
       ],
       "settings": {
         "title": "",
