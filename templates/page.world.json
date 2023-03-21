@@ -10,6 +10,16 @@
     "1664356345c77ed977": {
       "type": "multicolumn",
       "blocks": {
+        "f3b48c6f-7032-464b-a611-5e5d4deb51e2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle_SS23_ASYM_3x4_TH_1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/pages\/ss23-pop-up"
+          }
+        },
         "2210def6-3e16-4401-b6b3-fd0ea8f4bd4f": {
           "type": "column",
           "settings": {
@@ -62,6 +72,7 @@
         }
       },
       "block_order": [
+        "f3b48c6f-7032-464b-a611-5e5d4deb51e2",
         "2210def6-3e16-4401-b6b3-fd0ea8f4bd4f",
         "dc2350a6-4cec-422f-a1e8-3e4f203b370f",
         "2f216d0a-59c0-4fd8-82f7-3348c88ad9c6",
