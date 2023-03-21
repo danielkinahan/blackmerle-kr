@@ -327,6 +327,34 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "0de5e1f2-8922-4062-8e7c-a57202d637a3": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18272417906983__0de5e1f2-8922-4062-8e7c-a57202d637a3-1679409983f767d068-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>- <a href=\"https:\/\/www.youtube.com\/watch?v=iwMlmzFKxvE\" target=\"_blank\" title=\"https:\/\/www.youtube.com\/watch?v=iwMlmzFKxvE\">Popol Vuh - In Den Gärten Pharaos<\/a><br\/>- <a href=\"https:\/\/www.youtube.com\/watch?v=fQHto60cDFA\" target=\"_blank\" title=\"https:\/\/www.youtube.com\/watch?v=fQHto60cDFA\">Popol Vuh - Hosianna Mantra<\/a><br\/>- <a href=\"https:\/\/www.youtube.com\/watch?v=PB1cEyy0fKs\" target=\"_blank\" title=\"https:\/\/www.youtube.com\/watch?v=PB1cEyy0fKs\">Lou Reed - Metal Machine Music<\/a><br\/>- <a href=\"https:\/\/www.youtube.com\/watch?v=SGhsBmKvaQA\" target=\"_blank\" title=\"https:\/\/www.youtube.com\/watch?v=SGhsBmKvaQA\">Eno Moebius Roedelius - After The Heat<\/a><br\/>- <a href=\"https:\/\/www.youtube.com\/watch?v=c_E-lg2M5gQ\" target=\"_blank\" title=\"https:\/\/www.youtube.com\/watch?v=c_E-lg2M5gQ\">David Sylvian Holger Czukay - Flux + Mutability<\/a><br\/>- <a href=\"https:\/\/www.youtube.com\/watch?v=DLFDe-AfKhc\" target=\"_blank\" title=\"https:\/\/www.youtube.com\/watch?v=DLFDe-AfKhc\">Gothmog - Medieval Journeys<\/a><br\/>- <a href=\"https:\/\/www.youtube.com\/watch?v=p_TEv_LDXhE\" target=\"_blank\" title=\"https:\/\/www.youtube.com\/watch?v=p_TEv_LDXhE\">Roberto Musci - Tower of Silence<\/a><br\/><br\/><br\/><br\/>Special thanks to <a href=\"https:\/\/www.instagram.com\/asym_itaewon\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/asym_itaewon\/\">ASYM<\/a> + <a href=\"https:\/\/www.instagram.com\/toritoritoritori__\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/toritoritoritori__\/\">toritoritoritori <\/a><\/h5>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18272417906983__0de5e1f2-8922-4062-8e7c-a57202d637a3-1679409983f767d068-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/blackmerle-ss23-asym-6842.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 40
+      }
     }
   },
   "order": [
@@ -337,6 +365,7 @@
     "f65b11c4-3f52-4702-bc5a-4d7e9f78a1b1",
     "d484a098-4318-4060-82f1-6e8d901b569d",
     "d4799131-6ae2-499c-ab17-97b002ef8957",
-    "de4cc5a8-07b0-4b53-acda-b70856c9b4be"
+    "de4cc5a8-07b0-4b53-acda-b70856c9b4be",
+    "0de5e1f2-8922-4062-8e7c-a57202d637a3"
   ]
 }
