@@ -459,6 +459,9 @@
       "order_payment_collection": {
         "pay_now": "결제하기"
       }
+    },
+    "page_titles": {
+      "shopping_cart": "카트"
     }
   },
   "customer_accounts": {
