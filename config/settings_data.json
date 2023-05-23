@@ -123,6 +123,21 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
+        "blocks": {
+          "9999f80e-b3c1-4a65-860a-d2445bb4217a": {
+            "type": "announcement",
+            "disabled": true,
+            "settings": {
+              "text": "SS23 SALE 30% OFF",
+              "text_alignment": "center",
+              "color_scheme": "accent-1",
+              "link": "shopify:\/\/collections\/shop"
+            }
+          }
+        },
+        "block_order": [
+          "9999f80e-b3c1-4a65-860a-d2445bb4217a"
+        ],
         "settings": {
         }
       },
