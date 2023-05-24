@@ -106,7 +106,7 @@
     "product": {
       "add_to_cart": "카트에 담기",
       "description": "설명",
-      "on_sale": "할인",
+      "on_sale": "SALE",
       "product_variants": "제품 이형 상품",
       "quantity": {
         "label": "수량",
