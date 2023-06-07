@@ -454,7 +454,7 @@
         "phone_tooltip": "정확하고 안전한 배송을 위해 사용됩니다.",
         "phone_label": "전화번호",
         "phone_placeholder": "전화번호",
-        "last_name_label": "이름"
+        "last_name_label": "성"
       },
       "processing": {
         "continue_to_payment_gateway_button_label": "계속하기"
