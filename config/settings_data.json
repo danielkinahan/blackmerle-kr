@@ -126,12 +126,11 @@
         "blocks": {
           "announcement_3GrcTy": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "모든 주문은 1월 25일에 발송될 예정입니다",
+              "text": "FW24 프리오더 10% OFF (ENDS 2\/18 11:59PM)",
               "text_alignment": "center",
               "color_scheme": "accent-1",
-              "link": ""
+              "link": "shopify:\/\/collections\/shop"
             }
           }
         },
