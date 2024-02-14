@@ -80,6 +80,7 @@
         "c592a484-3af5-4a5c-aa91-c1432940b69e",
         "c9f132f9-89fd-401a-859b-121fb0d68050"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h2",
@@ -213,6 +214,7 @@
         "834ea29f-26ed-4a34-a74b-83b9203e77e4",
         "27062f97-3254-4ae0-a1fa-6c06c08577c8"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h2",
