@@ -14,6 +14,16 @@
         "0339894a-6f0f-4e20-b28c-524f82e764ac": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/blackmerle_fw24_looks_3_thumbnail.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/pages\/2024-1-looks"
+          }
+        },
+        "column_a8JNHr": {
+          "type": "column",
+          "settings": {
             "image": "shopify:\/\/shop_images\/blackmerle-looks-2023-2-f.jpg",
             "title": "",
             "text": "",
@@ -34,6 +44,7 @@
       },
       "block_order": [
         "0339894a-6f0f-4e20-b28c-524f82e764ac",
+        "column_a8JNHr",
         "c592a484-3af5-4a5c-aa91-c1432940b69e"
       ],
       "settings": {
