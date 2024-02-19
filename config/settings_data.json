@@ -126,6 +126,7 @@
         "blocks": {
           "announcement_3GrcTy": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "FW24 프리오더 10% OFF (ENDS 2\/18 11:59PM)",
               "text_alignment": "center",
