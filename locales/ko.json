@@ -461,6 +461,9 @@
       },
       "order_payment_collection": {
         "pay_now": "결제하기"
+      },
+      "shipping": {
+        "delivery_title": "배송 수단"
       }
     },
     "page_titles": {
