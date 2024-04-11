@@ -429,7 +429,8 @@
     "checkout": {
       "order_summary": {
         "shipping_default_value": "무료배송",
-        "vat_label_html": "VAT 포함"
+        "vat_label_html": "VAT 포함",
+        "enter_shipping_address": "무료배송"
       },
       "marketing": {
         "accept_marketing_checkbox_label": "혜택, 뉴스 및 이벤트 관련 이메일 받기"
