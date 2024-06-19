@@ -136,7 +136,7 @@
           "announcement_3GrcTy": {
             "type": "announcement",
             "settings": {
-              "text": "모든 오더는 6\/28일부터 순차적으로 배송됩니다.",
+              "text": "모든 오더는 6월 28일부터 순차적으로 배송됩니다",
               "text_alignment": "center",
               "color_scheme": "accent-1",
               "link": "shopify:\/\/collections\/shop"
