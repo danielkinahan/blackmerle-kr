@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "9b9d55c8-04b2-466a-867d-e79cf6a8a9d2": {
@@ -6,7 +15,7 @@
         "87c47802-7cbb-4034-996e-b6caaf9c6eea": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mid_lead-14_8931cb4b-d274-424f-8cd7-372432c7082f.jpg",
+            "image": "shopify:\/\/shop_images\/BM_FW24_1932_3x4_home.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -16,7 +25,7 @@
         "21f5287c-8b52-4b8a-9747-0ab4b6bb3b66": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/homepage_thumbnail_template_3x4_77opacity_92ca5896-fc4e-4c5d-bd15-9335bce6448e.jpg",
+            "image": "shopify:\/\/shop_images\/1914_3x4_home.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -25,6 +34,7 @@
         },
         "9240b7c5-661f-4095-8cb3-ce20a6445798": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/blackmerle-home-looks-2-final-2.jpg",
             "title": "",
@@ -35,6 +45,7 @@
         },
         "1397d12f-0cd6-431d-ae5a-a5233b47da48": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/blackmerle_221_world_3_scan_1_final_15c11a21-a944-470e-97bd-c58c3154bc4d.jpg",
             "title": "",
@@ -45,6 +56,7 @@
         },
         "template--17768773091623__9b9d55c8-04b2-466a-867d-e79cf6a8a9d2-1676270077c235e67e-0": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/blackmerle_hoodedjacket_ratgrey-15-TH.jpg",
             "title": "",
@@ -55,6 +67,7 @@
         },
         "6589f0dc-b06b-405d-82b2-3ff43b4845e9": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/blackmerle_riderpants_wetstone_LR-3-TH.jpg",
             "title": "",
