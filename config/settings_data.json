@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "colors_solid_button_labels": "#ffffff",
@@ -135,9 +135,8 @@
         "blocks": {
           "announcement_3GrcTy": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "SS25 프리오더 CLOSE 9월25일 5:00PM",
+              "text": "모든 주문건은 2월12일부터 발송됩니다",
               "text_alignment": "center",
               "color_scheme": "accent-1",
               "link": "shopify://collections/shop"
@@ -147,8 +146,7 @@
         "block_order": [
           "announcement_3GrcTy"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "header": {
         "type": "header",
@@ -209,9 +207,7 @@
         }
       }
     },
-    "content_for_index": [
-
-    ]
+    "content_for_index": []
   },
   "presets": {
     "Default": {
@@ -353,8 +349,7 @@
           "block_order": [
             "announcement-bar-0"
           ],
-          "settings": {
-          }
+          "settings": {}
         },
         "header": {
           "type": "header",
