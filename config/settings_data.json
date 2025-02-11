@@ -135,6 +135,7 @@
         "blocks": {
           "announcement_3GrcTy": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "모든 주문건은 2월12일부터 발송됩니다",
               "text_alignment": "center",
