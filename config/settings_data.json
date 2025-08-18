@@ -135,12 +135,11 @@
         "blocks": {
           "announcement_3GrcTy": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "모든 주문건은 2월12일부터 발송됩니다",
+              "text": "8월 20일부터 925 실버 주얼리 가격이 인상됩니다",
               "text_alignment": "center",
               "color_scheme": "accent-1",
-              "link": "shopify://collections/shop"
+              "link": "shopify://collections/925-silver"
             }
           }
         },
