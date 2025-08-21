@@ -135,6 +135,7 @@
         "blocks": {
           "announcement_3GrcTy": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "8월 20일부터 925 실버 주얼리 가격이 인상됩니다",
               "text_alignment": "center",
