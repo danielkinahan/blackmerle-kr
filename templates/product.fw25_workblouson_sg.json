@@ -95,7 +95,7 @@
         "97f929e9-c8ad-4500-a71d-903208b3343e": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC04648_3x4_big.jpg",
+            "image": "shopify://shop_images/DSC06552-edit-2400.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -105,7 +105,7 @@
         "fc5fde9f-8bd9-4796-b88d-014fcb767d35": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC04654_3x4_3.jpg",
+            "image": "shopify://shop_images/DSC06562-edit-2300.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -115,7 +115,7 @@
         "2debec78-3c0a-4520-bed7-843b3d4dd641": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC04649_3x4_big_2.jpg",
+            "image": "shopify://shop_images/DSC06578-edit-2300.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -125,17 +125,7 @@
         "36879f2f-980f-48c4-b01b-218c74fd4ddc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC04665_3x4_big_5.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "2dba9699-46c8-40d5-8ad1-ad1ce5042dda": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/B0043301-3X4.jpg",
+            "image": "shopify://shop_images/DSC06580-edit-2300.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -145,7 +135,17 @@
         "4e1458b6-43a8-422d-ac88-0be62dae40fa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0043303-4X5.jpg",
+            "image": "shopify://shop_images/DSC06594-edit-2400.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "2dba9699-46c8-40d5-8ad1-ad1ce5042dda": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC06605-edit-2300.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -155,7 +155,7 @@
         "92f95d10-56ec-4ea1-b053-89ec3909826b": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/060132255-edit-3x4.jpg",
+            "image": "shopify://shop_images/DSC06599-edit-2200.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -165,7 +165,7 @@
         "fead0e9f-850b-4254-8b83-5958af1daddb": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/060132124-EDIT-3x4.jpg",
+            "image": "shopify://shop_images/work_blouson_blackmerle_031619226_edit_big.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -175,7 +175,7 @@
         "column_q3dVwh": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/060132123-EDIT-3x4.jpg",
+            "image": "shopify://shop_images/blackmerle_workblouson_sg_031619243_edit_3x4_8010ce4a-8e5d-4d58-b3ad-63df9cccc133.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -185,7 +185,7 @@
         "column_tbLRDD": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/060132119-EDIT-3x4.jpg",
+            "image": "shopify://shop_images/031619211_edit_big-2400-blackmerle_workblouson.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -198,8 +198,8 @@
         "fc5fde9f-8bd9-4796-b88d-014fcb767d35",
         "2debec78-3c0a-4520-bed7-843b3d4dd641",
         "36879f2f-980f-48c4-b01b-218c74fd4ddc",
-        "2dba9699-46c8-40d5-8ad1-ad1ce5042dda",
         "4e1458b6-43a8-422d-ac88-0be62dae40fa",
+        "2dba9699-46c8-40d5-8ad1-ad1ce5042dda",
         "92f95d10-56ec-4ea1-b053-89ec3909826b",
         "fead0e9f-850b-4254-8b83-5958af1daddb",
         "column_q3dVwh",
