@@ -170,7 +170,6 @@
         "blocks": {
           "bb32db54-eda1-4dce-b57a-12d96e39fa14": {
             "type": "link_list",
-            "disabled": true,
             "settings": {
               "heading": "",
               "menu": "footer"
@@ -178,6 +177,7 @@
           },
           "text_jkX8WK": {
             "type": "text",
+            "disabled": true,
             "settings": {
               "heading": "",
               "subtext": "<h5>상호: blackmerle / 대표: Shin Jae Hwan / 사업자등록번호: 751-08-00332 / 주소: 서울특별시 종로구 종로46길 11 4층 402호 / 통신판매신고번호: 제 2023-서울종로-0348 호 / 전화: 010-5002-9143 문의: info@blackmerle.com / 개인정보관리책임자: Shin Jae Hwan info@blackmerle.com</h5>"
