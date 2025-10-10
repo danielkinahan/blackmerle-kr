@@ -95,7 +95,7 @@
         "36879f2f-980f-48c4-b01b-218c74fd4ddc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0043230.jpg",
+            "image": "shopify://shop_images/FW25_2_9782-edit-big.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -105,7 +105,7 @@
         "4e1458b6-43a8-422d-ac88-0be62dae40fa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0043231.jpg",
+            "image": "shopify://shop_images/FW25_2_9786-edit-big.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -115,7 +115,7 @@
         "92f95d10-56ec-4ea1-b053-89ec3909826b": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0043227_37782119-7cfb-46e8-b6ec-87c549c3d9bd.jpg",
+            "image": "shopify://shop_images/FW25_2_9734d-edit-big.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -125,7 +125,27 @@
         "fead0e9f-850b-4254-8b83-5958af1daddb": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0043235.jpg",
+            "image": "shopify://shop_images/FW25_2_9737-edit-big.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_dACCgp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FW25_2_9745-edit-big.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wEwmwW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FW25_2_9741-edit-big.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -137,7 +157,9 @@
         "36879f2f-980f-48c4-b01b-218c74fd4ddc",
         "4e1458b6-43a8-422d-ac88-0be62dae40fa",
         "92f95d10-56ec-4ea1-b053-89ec3909826b",
-        "fead0e9f-850b-4254-8b83-5958af1daddb"
+        "fead0e9f-850b-4254-8b83-5958af1daddb",
+        "column_dACCgp",
+        "column_wEwmwW"
       ],
       "settings": {
         "title": "",
