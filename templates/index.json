@@ -1,51 +1,31 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "9b9d55c8-04b2-466a-867d-e79cf6a8a9d2": {
       "type": "multicolumn",
       "blocks": {
-        "87c47802-7cbb-4034-996e-b6caaf9c6eea": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/060131978-edit-3x4.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "21f5287c-8b52-4b8a-9747-0ab4b6bb3b66": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/060131484-3x4.jpg",
+            "image": "shopify://shop_images/031617991_edit_bigd.jpg",
             "title": "",
             "text": "",
             "link_label": "",
             "link": ""
           }
         },
-        "column_JKgqf4": {
+        "87c47802-7cbb-4034-996e-b6caaf9c6eea": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/060131447-3_4.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_FE8hBc": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/060131989-3x4_9583aec3-3229-4590-b41d-78da21dd7f51.jpg",
+            "image": "shopify://shop_images/031618337_edit_bidd.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -56,52 +36,50 @@
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle-home-looks-2-final-2.jpg",
+            "image": "shopify://shop_images/blackmerle-home-looks-2-final-2.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/pages\/2023-2-looks"
+            "link": "shopify://pages/2023-2-looks"
           }
         },
         "1397d12f-0cd6-431d-ae5a-a5233b47da48": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_221_world_3_scan_1_final_15c11a21-a944-470e-97bd-c58c3154bc4d.jpg",
+            "image": "shopify://shop_images/blackmerle_221_world_3_scan_1_final_15c11a21-a944-470e-97bd-c58c3154bc4d.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/pages\/ss23-layers"
+            "link": "shopify://pages/ss23-layers"
           }
         },
         "template--17768773091623__9b9d55c8-04b2-466a-867d-e79cf6a8a9d2-1676270077c235e67e-0": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_hoodedjacket_ratgrey-15-TH.jpg",
+            "image": "shopify://shop_images/blackmerle_hoodedjacket_ratgrey-15-TH.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/products\/hooded-jacket-rat-grey"
+            "link": "shopify://products/hooded-jacket-rat-grey"
           }
         },
         "6589f0dc-b06b-405d-82b2-3ff43b4845e9": {
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/blackmerle_riderpants_wetstone_LR-3-TH.jpg",
+            "image": "shopify://shop_images/blackmerle_riderpants_wetstone_LR-3-TH.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/products\/rider-pants-wet-stone"
+            "link": "shopify://products/rider-pants-wet-stone"
           }
         }
       },
       "block_order": [
-        "87c47802-7cbb-4034-996e-b6caaf9c6eea",
         "21f5287c-8b52-4b8a-9747-0ab4b6bb3b66",
-        "column_JKgqf4",
-        "column_FE8hBc",
+        "87c47802-7cbb-4034-996e-b6caaf9c6eea",
         "9240b7c5-661f-4095-8cb3-ce20a6445798",
         "1397d12f-0cd6-431d-ae5a-a5233b47da48",
         "template--17768773091623__9b9d55c8-04b2-466a-867d-e79cf6a8a9d2-1676270077c235e67e-0",
