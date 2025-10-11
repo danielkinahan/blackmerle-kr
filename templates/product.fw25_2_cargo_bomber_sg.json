@@ -112,20 +112,40 @@
             "link": ""
           }
         },
-        "92f95d10-56ec-4ea1-b053-89ec3909826b": {
+        "fead0e9f-850b-4254-8b83-5958af1daddb": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/FW25_2_9734d-edit-big.jpg",
+            "image": "shopify://shop_images/FW25_2_9737-edit-big.jpg",
             "title": "",
             "text": "",
             "link_label": "",
             "link": ""
           }
         },
-        "fead0e9f-850b-4254-8b83-5958af1daddb": {
+        "column_qHW3Qf": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/FW25_2_9737-edit-big.jpg",
+            "image": "shopify://shop_images/FW25_2_9717-edit-2500.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ynBUem": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FW25_2_9729-edit-2500.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Qda83Y": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/25fw_2_moleskin9191-edit-2500.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -151,15 +171,39 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_DbwLey": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FW25_2_9724-edit-2500.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "92f95d10-56ec-4ea1-b053-89ec3909826b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FW25_2_9734d-edit-big.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "36879f2f-980f-48c4-b01b-218c74fd4ddc",
         "4e1458b6-43a8-422d-ac88-0be62dae40fa",
-        "92f95d10-56ec-4ea1-b053-89ec3909826b",
         "fead0e9f-850b-4254-8b83-5958af1daddb",
+        "column_qHW3Qf",
+        "column_ynBUem",
+        "column_Qda83Y",
         "column_dACCgp",
-        "column_wEwmwW"
+        "column_wEwmwW",
+        "column_DbwLey",
+        "92f95d10-56ec-4ea1-b053-89ec3909826b"
       ],
       "settings": {
         "title": "",
