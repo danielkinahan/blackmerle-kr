@@ -175,6 +175,13 @@
               "menu": "footer"
             }
           },
+          "text_U7VPWH": {
+            "type": "text",
+            "settings": {
+              "heading": "",
+              "subtext": "<h6>© 2025 Blackmerle</h6>"
+            }
+          },
           "text_jkX8WK": {
             "type": "text",
             "disabled": true,
@@ -186,6 +193,7 @@
         },
         "block_order": [
           "bb32db54-eda1-4dce-b57a-12d96e39fa14",
+          "text_U7VPWH",
           "text_jkX8WK"
         ],
         "settings": {
@@ -196,9 +204,9 @@
           "enable_country_selector": false,
           "enable_language_selector": false,
           "payment_enable": false,
-          "margin_top": 4,
-          "padding_top": 16,
-          "padding_bottom": 4
+          "margin_top": 0,
+          "padding_top": 0,
+          "padding_bottom": 0
         }
       },
       "main-password-header": {
