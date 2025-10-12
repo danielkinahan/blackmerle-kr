@@ -444,5 +444,13 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "/* 데스크탑: 오른쪽 정렬 */.footer-block.grid__item:nth-child(2) {display: flex !important; justify-content: flex-end !important; padding: 0 !important;}",
+      ".footer-block.grid__item:nth-child(2) .footer-block__details-content,.footer-block.grid__item:nth-child(2) .footer-block__details-content h6 {margin: 0 !important; padding: 0 !important;}",
+      ".footer-block.grid__item:nth-child(2) .footer-block__details-content h6 {display: inline-block !important;}",
+      "/* 모바일: 왼쪽 정렬 및 상단 정렬 */@media (max-width: 799px) {.footer-block.grid__item:nth-child(2) {display: flex !important; flex-direction: column !important; justify-content: flex-start !important; align-items: flex-start !important; height: auto !important; padding: 0 !important; }}"
+    ]
   }
 }
