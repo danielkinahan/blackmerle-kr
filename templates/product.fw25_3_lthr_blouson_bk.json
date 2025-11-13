@@ -95,7 +95,7 @@
         "97f929e9-c8ad-4500-a71d-903208b3343e": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/FW25_2_9860_3x4_big_6.jpg",
+            "image": "shopify://shop_images/blackmerle_fw25_leatther_bk_1572-edit-2500.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -105,7 +105,7 @@
         "fc5fde9f-8bd9-4796-b88d-014fcb767d35": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/FW25_2_9867_3x4_big_8.jpg",
+            "image": "shopify://shop_images/blackmerle_fw25_leatther_bk_1589-edit-2500.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -115,7 +115,7 @@
         "36879f2f-980f-48c4-b01b-218c74fd4ddc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/FW25_2_9853_3x4_big_4.jpg",
+            "image": "shopify://shop_images/blackmerle_fw25_leatther_bk_1547-edit-2500.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -125,7 +125,7 @@
         "2debec78-3c0a-4520-bed7-843b3d4dd641": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/FW25_2_9857_3x4_big_5.jpg",
+            "image": "shopify://shop_images/blackmerle_fw25_leatther_bk_1592-edit-2500.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -135,7 +135,7 @@
         "column_WNmEFU": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/FW25_2_9904_3x4_big_14.jpg",
+            "image": "shopify://shop_images/blackmerle_fw25_leatther_bk_1543-edit-2500.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -145,7 +145,7 @@
         "column_4bnq3E": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/FW25_2_9863_3x4_big_7.jpg",
+            "image": "shopify://shop_images/blackmerle_fw25_leatther_bk_1596-edit-2500.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -155,7 +155,7 @@
         "column_8YnMJM": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/FW25_2_9882_3x4_big_10.jpg",
+            "image": "shopify://shop_images/blackmerle_fw25_leatther_bk_1605-edit-2500.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -165,7 +165,27 @@
         "column_GNc8Rh": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/FW25_2_9879_3x4_big_9.jpg",
+            "image": "shopify://shop_images/blackmerle_fw25_leatther_bk_1599-edit-2500.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_XGR6Qr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_fw25_leatther_bk_1588-edit-2500.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_iXCJAw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_fw25_leatther_bk_1537-edit-2500.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -181,7 +201,9 @@
         "column_WNmEFU",
         "column_4bnq3E",
         "column_8YnMJM",
-        "column_GNc8Rh"
+        "column_GNc8Rh",
+        "column_XGR6Qr",
+        "column_iXCJAw"
       ],
       "settings": {
         "title": "",
