@@ -11,10 +11,23 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "video_VJjxF3": {
+      "type": "video",
+      "name": "t:sections.video.presets.name",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "video_url": "https://youtu.be/hBFDTnEnzbc?si=IJYEbcd1pKPEBI69",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "ac7911d4-2160-463f-8ac8-728d05de27aa": {
@@ -23,7 +36,7 @@
         "template--18272417906983__ac7911d4-2160-463f-8ac8-728d05de27aa-1679409013cd13d3db-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle-ss23-asym-6866.jpg",
+            "image": "shopify://shop_images/DSC00907.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -61,43 +74,56 @@
         "padding_bottom": 36
       }
     },
-    "2ad3e83d-6292-4ae4-84a4-86f7483d6d03": {
+    "collage_DLLR6r": {
+      "type": "collage",
+      "blocks": {
+        "image_H6V8wL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/R0002989.jpg",
+            "image_padding": true
+          }
+        },
+        "image_NRCygD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/R0002559.jpg",
+            "image_padding": true
+          }
+        }
+      },
+      "block_order": [
+        "image_H6V8wL",
+        "image_NRCygD"
+      ],
+      "name": "t:sections.collage.presets.name",
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "desktop_layout": "right",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_FKqFeg": {
       "type": "multicolumn",
       "blocks": {
-        "template--18272417906983__2ad3e83d-6292-4ae4-84a4-86f7483d6d03-1679409013cd13d3db-0": {
+        "column_TTKU7r": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle-ss23-asym-itaewon-6947-final.jpg",
+            "image": "shopify://shop_images/R0002542.jpg",
             "title": "",
             "text": "",
             "link_label": "",
             "link": ""
           }
         },
-        "template--18272417906983__2ad3e83d-6292-4ae4-84a4-86f7483d6d03-1679409013cd13d3db-1": {
+        "column_UH8rJc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle-ss23-asym-itaewon-6952-final.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--18272417906983__2ad3e83d-6292-4ae4-84a4-86f7483d6d03-1679409013cd13d3db-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle-ss23-asym-itaewon-6962.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1a85da8a-ff8c-4acf-a0d5-1fe9bb20a15a": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle-ss23-asym-itaewon-6957.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -106,23 +132,22 @@
         }
       },
       "block_order": [
-        "template--18272417906983__2ad3e83d-6292-4ae4-84a4-86f7483d6d03-1679409013cd13d3db-0",
-        "template--18272417906983__2ad3e83d-6292-4ae4-84a4-86f7483d6d03-1679409013cd13d3db-1",
-        "template--18272417906983__2ad3e83d-6292-4ae4-84a4-86f7483d6d03-1679409013cd13d3db-2",
-        "1a85da8a-ff8c-4acf-a0d5-1fe9bb20a15a"
+        "column_TTKU7r",
+        "column_UH8rJc"
       ],
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 2,
+        "columns_desktop": 1,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
@@ -134,7 +159,7 @@
         "e9397474-bf5e-4ceb-94ae-7365d743f366": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle-ss23-asym-6990.jpg",
+            "image": "shopify://shop_images/R0002555.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -172,46 +197,13 @@
         "padding_bottom": 36
       }
     },
-    "f65b11c4-3f52-4702-bc5a-4d7e9f78a1b1": {
-      "type": "collage",
-      "blocks": {
-        "0c1b0af5-6129-4d49-8443-83f89662d8f4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle-ss23-asym-6858.jpg",
-            "image_padding": true
-          }
-        },
-        "fea8666f-44d5-4d0d-8513-fa3d37efd4c3": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle-ss23-asym-6862.jpg",
-            "image_padding": false
-          }
-        }
-      },
-      "block_order": [
-        "0c1b0af5-6129-4d49-8443-83f89662d8f4",
-        "fea8666f-44d5-4d0d-8513-fa3d37efd4c3"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_size": "h2",
-        "desktop_layout": "right",
-        "mobile_layout": "column",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "d484a098-4318-4060-82f1-6e8d901b569d": {
       "type": "multicolumn",
       "blocks": {
         "8f1c4af0-18b4-456a-8cf3-0109b89a3733": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle-ss23-asym-7001.jpg",
+            "image": "shopify://shop_images/R0003023.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -249,13 +241,46 @@
         "padding_bottom": 36
       }
     },
+    "f65b11c4-3f52-4702-bc5a-4d7e9f78a1b1": {
+      "type": "collage",
+      "blocks": {
+        "0c1b0af5-6129-4d49-8443-83f89662d8f4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/R0003158.jpg",
+            "image_padding": true
+          }
+        },
+        "fea8666f-44d5-4d0d-8513-fa3d37efd4c3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/R0003666.jpg",
+            "image_padding": true
+          }
+        }
+      },
+      "block_order": [
+        "0c1b0af5-6129-4d49-8443-83f89662d8f4",
+        "fea8666f-44d5-4d0d-8513-fa3d37efd4c3"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "desktop_layout": "right",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "d4799131-6ae2-499c-ab17-97b002ef8957": {
       "type": "multicolumn",
       "blocks": {
         "6e7f9255-62d2-44f6-a991-28edcd57251c": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle-ss23-asym-6804.jpg",
+            "image": "shopify://shop_images/DSC01461.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -368,11 +393,13 @@
   },
   "order": [
     "main",
+    "video_VJjxF3",
     "ac7911d4-2160-463f-8ac8-728d05de27aa",
-    "2ad3e83d-6292-4ae4-84a4-86f7483d6d03",
+    "collage_DLLR6r",
+    "multicolumn_FKqFeg",
     "99682406-478a-467c-9147-b63fab88b8f9",
-    "f65b11c4-3f52-4702-bc5a-4d7e9f78a1b1",
     "d484a098-4318-4060-82f1-6e8d901b569d",
+    "f65b11c4-3f52-4702-bc5a-4d7e9f78a1b1",
     "d4799131-6ae2-499c-ab17-97b002ef8957",
     "de4cc5a8-07b0-4b53-acda-b70856c9b4be",
     "0de5e1f2-8922-4062-8e7c-a57202d637a3"
