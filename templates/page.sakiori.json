@@ -85,39 +85,6 @@
         "padding_bottom": 36
       }
     },
-    "ac7911d4-2160-463f-8ac8-728d05de27aa": {
-      "type": "multicolumn",
-      "blocks": {
-        "585572f8-5bb2-4633-808f-318feb141cb2": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "585572f8-5bb2-4633-808f-318feb141cb2"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "collage_DLLR6r": {
       "type": "collage",
       "blocks": {
@@ -204,7 +171,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 4
       }
     },
     "99682406-478a-467c-9147-b63fab88b8f9": {
@@ -247,8 +214,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 4,
+        "padding_bottom": 4
       }
     },
     "d484a098-4318-4060-82f1-6e8d901b569d": {
@@ -291,7 +258,7 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 4,
         "padding_bottom": 36
       }
     },
@@ -418,34 +385,8 @@
             "link_label": "",
             "link": ""
           }
-        }
-      },
-      "block_order": [
-        "column_9TbiWz",
-        "column_rpJAhG"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn_Q79mnR": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_UNVwrb": {
+        },
+        "column_BxR6h6": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/blackmerle.sakiori.7.jpg",
@@ -455,7 +396,7 @@
             "link": ""
           }
         },
-        "column_m3xLyT": {
+        "column_iyDnLr": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/blackmerle.sakiori.8.jpg",
@@ -467,8 +408,10 @@
         }
       },
       "block_order": [
-        "column_UNVwrb",
-        "column_m3xLyT"
+        "column_9TbiWz",
+        "column_rpJAhG",
+        "column_BxR6h6",
+        "column_iyDnLr"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -715,6 +658,16 @@
             "link": ""
           }
         },
+        "column_6Hb4NT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle.sakiori.19.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_nTegGW": {
           "type": "column",
           "settings": {
@@ -727,52 +680,8 @@
       },
       "block_order": [
         "column_YzPEiE",
+        "column_6Hb4NT",
         "column_nTegGW"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn_kXrU6N": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_GQBegd": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle.sakiori.19.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_69EtpW": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_GQBegd",
-        "column_69EtpW"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -930,6 +839,26 @@
             "link": ""
           }
         },
+        "column_NyEY7e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle.sakiori.2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_WMECiw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle.sakiori.3.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_eYgLmi": {
           "type": "column",
           "settings": {
@@ -942,97 +871,9 @@
       },
       "block_order": [
         "column_dwH8X4",
+        "column_NyEY7e",
+        "column_WMECiw",
         "column_eYgLmi"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn_XQzMkH": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_qa8zne": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle.sakiori.2.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_gCBzTU": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_qa8zne",
-        "column_gCBzTU"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn_epVCtH": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_3rnVdn": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle.sakiori.3.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_xGmaMi": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_3rnVdn",
-        "column_xGmaMi"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -1057,7 +898,6 @@
     "main",
     "video_VJjxF3",
     "de4cc5a8-07b0-4b53-acda-b70856c9b4be",
-    "ac7911d4-2160-463f-8ac8-728d05de27aa",
     "collage_DLLR6r",
     "multicolumn_FKqFeg",
     "99682406-478a-467c-9147-b63fab88b8f9",
@@ -1065,18 +905,14 @@
     "multicolumn_C3JHDk",
     "d4799131-6ae2-499c-ab17-97b002ef8957",
     "multicolumn_yHYEyM",
-    "multicolumn_Q79mnR",
     "multicolumn_CWQQfK",
     "multicolumn_qrxQch",
     "multicolumn_nW8XMz",
     "multicolumn_fLLQkT",
-    "multicolumn_XQzMkH",
     "multicolumn_VAcice",
-    "multicolumn_kXrU6N",
     "multicolumn_wRxNcB",
     "multicolumn_FrkHFL",
     "collage_JrjqCj",
-    "multicolumn_PyhcTx",
-    "multicolumn_epVCtH"
+    "multicolumn_PyhcTx"
   ]
 }
