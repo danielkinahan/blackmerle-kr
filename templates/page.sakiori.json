@@ -499,52 +499,6 @@
         "padding_bottom": 32
       }
     },
-    "multicolumn_qrxQch": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_YXCree": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle.sakiori.11.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_L4Cbpq": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/R0004768-2.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_YXCree",
-        "column_L4Cbpq"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 32
-      }
-    },
     "multicolumn_nW8XMz": {
       "type": "multicolumn",
       "blocks": {
@@ -979,7 +933,6 @@
     "d4799131-6ae2-499c-ab17-97b002ef8957",
     "multicolumn_yHYEyM",
     "multicolumn_CWQQfK",
-    "multicolumn_qrxQch",
     "multicolumn_nW8XMz",
     "multicolumn_fLLQkT",
     "multicolumn_VAcice",
