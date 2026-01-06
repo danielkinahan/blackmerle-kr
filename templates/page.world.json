@@ -21,6 +21,7 @@
       "blocks": {
         "column_aqPN76": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/blackmerle_FW24_MECLADS_3x4_TH_1.webp",
             "title": "",
