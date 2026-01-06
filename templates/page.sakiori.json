@@ -36,6 +36,7 @@
       "blocks": {
         "b4602194-9348-4368-9313-537ae44a2258": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/blackmerle.sakiori.1.jpg",
             "title": "",
@@ -46,6 +47,7 @@
         },
         "column_9MGrEg": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "",
             "text": "<p></p><p></p><p></p>",
@@ -79,7 +81,6 @@
         "column_nbxxPj",
         "acd712f8-0fad-481b-88e5-bd32876153e6"
       ],
-      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h2",
