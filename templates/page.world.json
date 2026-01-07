@@ -19,6 +19,16 @@
     "1664356345c77ed977": {
       "type": "multicolumn",
       "blocks": {
+        "column_we4KyX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/WORLD_thumbnail_copy_0a60ca15-9d22-46a9-9ec6-a39d30c03df0.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://pages/sakiori"
+          }
+        },
         "column_aqPN76": {
           "type": "column",
           "settings": {
@@ -91,6 +101,7 @@
         }
       },
       "block_order": [
+        "column_we4KyX",
         "column_aqPN76",
         "f3b48c6f-7032-464b-a611-5e5d4deb51e2",
         "2210def6-3e16-4401-b6b3-fd0ea8f4bd4f",
