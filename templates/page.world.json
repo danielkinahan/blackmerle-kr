@@ -39,6 +39,16 @@
             "link": "shopify://pages/fw24-meclads-pop-up"
           }
         },
+        "column_7DcNLA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/WORLD_thumbnail_3_copy_aa280fb4-6d04-48f3-9623-625c4cb50575.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://pages/seongsu-popup"
+          }
+        },
         "f3b48c6f-7032-464b-a611-5e5d4deb51e2": {
           "type": "column",
           "settings": {
@@ -103,6 +113,7 @@
       "block_order": [
         "column_we4KyX",
         "column_aqPN76",
+        "column_7DcNLA",
         "f3b48c6f-7032-464b-a611-5e5d4deb51e2",
         "2210def6-3e16-4401-b6b3-fd0ea8f4bd4f",
         "dc2350a6-4cec-422f-a1e8-3e4f203b370f",
