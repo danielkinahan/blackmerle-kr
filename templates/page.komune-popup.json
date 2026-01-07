@@ -826,7 +826,7 @@
         "template--18272417906983__0de5e1f2-8922-4062-8e7c-a57202d637a3-1679409983f767d068-1": {
           "type": "text",
           "settings": {
-            "text": "<h5></h5><h5></h5><h5></h5><h5></h5><h5>Special thanks to <a href=\"https://www.instagram.com/komune.space?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==\" title=\"https://www.instagram.com/komune.space?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==\">Komune</a></h5>",
+            "text": "<h5>Special thanks to <a href=\"https://www.instagram.com/komune.space?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==\" title=\"https://www.instagram.com/komune.space?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==\">Komune</a></h5><h5></h5>",
             "text_style": "body"
           }
         }
