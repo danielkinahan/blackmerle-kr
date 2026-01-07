@@ -799,36 +799,58 @@
         "padding_bottom": 32
       }
     },
-    "collage_JrjqCj": {
-      "type": "collage",
+    "multicolumn_qyTyGq": {
+      "type": "multicolumn",
       "blocks": {
-        "image_NeGBBB": {
-          "type": "image",
+        "column_KXhfxf": {
+          "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle.sakiori.23.jpg",
-            "image_padding": true
+            "image": "shopify://shop_images/DSC00959.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         },
-        "image_QwJ7PQ": {
-          "type": "image",
+        "column_VQgXdU": {
+          "type": "column",
           "settings": {
             "image": "shopify://shop_images/blackmerle.sakiori.24.jpg",
-            "image_padding": true
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7FjfbC": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "image_NeGBBB",
-        "image_QwJ7PQ"
+        "column_KXhfxf",
+        "column_VQgXdU",
+        "column_7FjfbC"
       ],
-      "name": "t:sections.collage.presets.name",
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "heading": "",
+        "title": "",
         "heading_size": "h2",
-        "desktop_layout": "right",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 32
       }
@@ -938,7 +960,7 @@
     "multicolumn_VAcice",
     "multicolumn_wRxNcB",
     "multicolumn_FrkHFL",
-    "collage_JrjqCj",
+    "multicolumn_qyTyGq",
     "multicolumn_PyhcTx"
   ]
 }
