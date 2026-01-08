@@ -178,6 +178,46 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_4CcxHr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle-fw24-looks-2024-2-1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_HV9eeJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle-fw24-looks-2024-2-3.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_jqmx9V": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle-fw24-looks-2024-2-6.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_eFGKib": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle-fw24-looks-2024-2-7.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -196,7 +236,11 @@
         "column_UFHVmE",
         "column_rJ7BcQ",
         "column_qnyydK",
-        "column_fT9m6z"
+        "column_fT9m6z",
+        "column_4CcxHr",
+        "column_HV9eeJ",
+        "column_jqmx9V",
+        "column_eFGKib"
       ],
       "settings": {
         "title": "",
