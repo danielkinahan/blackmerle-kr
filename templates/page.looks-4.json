@@ -210,16 +210,6 @@
             "link": ""
           }
         },
-        "column_imF64j": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle_fw24_looks_2024-3_18.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_TWR7Jt": {
           "type": "column",
           "settings": {
@@ -230,10 +220,60 @@
             "link": ""
           }
         },
+        "column_imF64j": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_fw24_looks_2024-3_18.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "98ee42da-cf16-4de3-844b-1a44e50cd24a": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/blackmerle_fw24_looks_2024-3_111.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_AMFBCE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_fw24_looks_2024-3_98.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_cXQKqy": {
+          "type": "column",
+          "settings": {
             "image": "shopify://shop_images/blackmerle_fw24_looks_2024-3_14.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Nd3XBX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_fw24_looks_2024-3_6.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6pL7WV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_fw24_looks_2024-3_16.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -261,9 +301,13 @@
         "column_kjgFkR",
         "column_RQL3Re",
         "column_t3xwqB",
-        "column_imF64j",
         "column_TWR7Jt",
-        "98ee42da-cf16-4de3-844b-1a44e50cd24a"
+        "column_imF64j",
+        "98ee42da-cf16-4de3-844b-1a44e50cd24a",
+        "column_AMFBCE",
+        "column_cXQKqy",
+        "column_Nd3XBX",
+        "column_6pL7WV"
       ],
       "settings": {
         "title": "",
