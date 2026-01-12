@@ -253,51 +253,6 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_pxjhxU": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_dDhqgM": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/OBSCURA_x_Blackmerle_7.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_EJbB9G": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/OBSCURA_x_Blackmerle_17.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_dDhqgM",
-        "column_EJbB9G"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "d484a098-4318-4060-82f1-6e8d901b569d": {
       "type": "multicolumn",
       "blocks": {
@@ -426,6 +381,51 @@
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_pxjhxU": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_dDhqgM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/OBSCURA_x_Blackmerle_7.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_EJbB9G": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/OBSCURA_x_Blackmerle_17.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_dDhqgM",
+        "column_EJbB9G"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
@@ -706,10 +706,10 @@
     "2ad3e83d-6292-4ae4-84a4-86f7483d6d03",
     "99682406-478a-467c-9147-b63fab88b8f9",
     "multicolumn_dcYWbP",
-    "multicolumn_pxjhxU",
     "d484a098-4318-4060-82f1-6e8d901b569d",
     "multicolumn_KdX8rB",
     "d4799131-6ae2-499c-ab17-97b002ef8957",
+    "multicolumn_pxjhxU",
     "multicolumn_7bV9Gi",
     "multicolumn_Q3eTme",
     "multicolumn_cVjBCi",
