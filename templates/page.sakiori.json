@@ -880,18 +880,59 @@
         "column_NyEY7e": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle.sakiori.2.jpg",
+            "image": "shopify://shop_images/BM-_sakiori8178--edit-rgb.jpg",
             "title": "",
             "text": "",
             "link_label": "",
             "link": ""
           }
         },
-        "column_6QLJy6": {
+        "column_CGhAXp": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/blackmerle.sakiori.1.jpg",
             "title": "",
-            "text": "<p></p><p></p><p></p>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_VxbGzm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BM__sakiori8179-edit-rgb.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_tMxGa3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BM__sakiori8171--edit-rgb.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3qQ9Nf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BM_sakiori8173-edit-rgb.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JDKK8g": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle.sakiori.2.jpg",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -920,7 +961,11 @@
         "column_dwH8X4",
         "column_LcYdBQ",
         "column_NyEY7e",
-        "column_6QLJy6",
+        "column_CGhAXp",
+        "column_VxbGzm",
+        "column_tMxGa3",
+        "column_3qQ9Nf",
+        "column_JDKK8g",
         "column_WMECiw",
         "column_eYgLmi"
       ],
