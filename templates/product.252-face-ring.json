@@ -89,14 +89,14 @@
         "padding_bottom": 32
       }
     },
-    "video_3FGYdh": {
+    "video_ihcij7": {
       "type": "video",
-      "disabled": true,
       "name": "t:sections.video.presets.name",
       "settings": {
         "heading": "",
         "heading_size": "h1",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "cover_image": "shopify://shop_images/Screen_Shot_2026-01-19_at_5.37.46_PM.png",
+        "video_url": "https://youtu.be/OFuXRstYjdg?si=BoMD_Nq9NoOlKR04",
         "description": "",
         "full_width": false,
         "color_scheme": "background-1",
@@ -197,7 +197,7 @@
   "order": [
     "main",
     "product-recommendations",
-    "video_3FGYdh",
+    "video_ihcij7",
     "166383477696d81de8"
   ]
 }
