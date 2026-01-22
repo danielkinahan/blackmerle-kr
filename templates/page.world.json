@@ -39,6 +39,16 @@
             "link": "shopify://pages/fw24-meclads-pop-up"
           }
         },
+        "column_PVXWKD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/WORLD_thumbnail_copy3_copy.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://pages/obscura-popup"
+          }
+        },
         "column_7DcNLA": {
           "type": "column",
           "settings": {
@@ -113,6 +123,7 @@
       "block_order": [
         "column_we4KyX",
         "column_aqPN76",
+        "column_PVXWKD",
         "column_7DcNLA",
         "f3b48c6f-7032-464b-a611-5e5d4deb51e2",
         "2210def6-3e16-4401-b6b3-fd0ea8f4bd4f",
