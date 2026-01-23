@@ -29,16 +29,6 @@
             "link": "shopify://pages/sakiori"
           }
         },
-        "column_aqPN76": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle_FW24_MECLADS_3x4_TH_1.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://pages/fw24-meclads-pop-up"
-          }
-        },
         "column_PVXWKD": {
           "type": "column",
           "settings": {
@@ -47,6 +37,16 @@
             "text": "",
             "link_label": "",
             "link": "shopify://pages/obscura-popup"
+          }
+        },
+        "column_aqPN76": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle_FW24_MECLADS_3x4_TH_1.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://pages/fw24-meclads-pop-up"
           }
         },
         "column_7DcNLA": {
@@ -122,8 +122,8 @@
       },
       "block_order": [
         "column_we4KyX",
-        "column_aqPN76",
         "column_PVXWKD",
+        "column_aqPN76",
         "column_7DcNLA",
         "f3b48c6f-7032-464b-a611-5e5d4deb51e2",
         "2210def6-3e16-4401-b6b3-fd0ea8f4bd4f",
