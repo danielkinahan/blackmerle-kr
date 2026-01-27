@@ -25,7 +25,7 @@
           "settings": {
             "image": "shopify://shop_images/Blackmerle_FW24_1932_big_F.jpg",
             "heading": "",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "",
             "button_label": "",
             "link": "",
@@ -86,8 +86,8 @@
         "slider_visual": "counter",
         "auto_rotate": false,
         "change_slides_speed": 5,
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
+        "show_text_below": false,
+        "accessibility_info": ""
       }
     },
     "1664176334c2bc9e60": {
@@ -230,8 +230,8 @@
         "slider_visual": "counter",
         "auto_rotate": false,
         "change_slides_speed": 5,
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
+        "show_text_below": false,
+        "accessibility_info": ""
       }
     },
     "multicolumn_8aWGB3": {
