@@ -17,13 +17,86 @@
         "padding_bottom": 0
       }
     },
+    "slideshow_eAKfxX": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_ayhjKd": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Blackmerle_FW24_1932_big_F.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_y9N3aQ": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Blackmerle_FW24_1932_big_F.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_rHFRL6": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_ayhjKd",
+        "slide_y9N3aQ",
+        "slide_rHFRL6"
+      ],
+      "name": "t:sections.slideshow.presets.name",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "1664176334c2bc9e60": {
       "type": "multicolumn",
       "blocks": {
         "0339894a-6f0f-4e20-b28c-524f82e764ac": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/000023_F_F.jpg",
+            "image": "shopify://shop_images/Blackmerle_FW24_2024-1-48.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -33,47 +106,7 @@
         "98ee42da-cf16-4de3-844b-1a44e50cd24a": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle_ss23_looks_2_6086-S-3X4.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "3031a2d1-edc9-4f3b-aaa8-0b6209462861": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle_ss23_looks_2_6494-S-3X4.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "441e850c-04d4-4a81-a347-75f45f326951": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle_ss23_looks_2_6624-S-3X4.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "c592a484-3af5-4a5c-aa91-c1432940b69e": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle_ss23_looks_2_6541-S-3X4_7ff7ab44-7f6d-41b2-92b3-6c977a0e7269.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "c9f132f9-89fd-401a-859b-121fb0d68050": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle_ss23_looks_2_6590-S-3X4.jpg",
+            "image": "shopify://shop_images/Blackmerle_FW24_2024-1-49.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -83,11 +116,7 @@
       },
       "block_order": [
         "0339894a-6f0f-4e20-b28c-524f82e764ac",
-        "98ee42da-cf16-4de3-844b-1a44e50cd24a",
-        "3031a2d1-edc9-4f3b-aaa8-0b6209462861",
-        "441e850c-04d4-4a81-a347-75f45f326951",
-        "c592a484-3af5-4a5c-aa91-c1432940b69e",
-        "c9f132f9-89fd-401a-859b-121fb0d68050"
+        "98ee42da-cf16-4de3-844b-1a44e50cd24a"
       ],
       "settings": {
         "title": "",
@@ -102,13 +131,224 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 16,
+        "padding_top": 60,
         "padding_bottom": 32
+      }
+    },
+    "multicolumn_CqETD7": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_zdixpd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Blackmerle_FW24_2024-1-44.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_kgPWpV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Blackmerle_FW24_1566_F_2500.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_zdixpd",
+        "column_kgPWpV"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 32,
+        "padding_bottom": 60
+      }
+    },
+    "slideshow_TnpcNM": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_wLFBXT": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Blackmerle_FW24_2024-1-17.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_h9kFkH": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_wLFBXT",
+        "slide_h9kFkH"
+      ],
+      "name": "t:sections.slideshow.presets.name",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "multicolumn_8aWGB3": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gkXr7X": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Blackmerle_FW24_2024-1-9.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_cBGXk3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Blackmerle_FW24_2024-1-8.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_e9mE6Q": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/000028_F_F_44f26dcb-ec0d-4608-9fa7-fc951f7bf3f7.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_RQYMFC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/000039_F_F_de67dd3b-4831-4b99-b99b-dc0ed157632f.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qJM8gy": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_U6jLDB": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_4Uzpgm": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_kQQQzq": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_gkXr7X",
+        "column_cBGXk3",
+        "column_e9mE6Q",
+        "column_RQYMFC",
+        "column_qJM8gy",
+        "column_U6jLDB",
+        "column_4Uzpgm",
+        "column_kQQQzq"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "main",
-    "1664176334c2bc9e60"
+    "slideshow_eAKfxX",
+    "1664176334c2bc9e60",
+    "multicolumn_CqETD7",
+    "slideshow_TnpcNM",
+    "multicolumn_8aWGB3"
   ]
 }
