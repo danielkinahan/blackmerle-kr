@@ -215,7 +215,7 @@
         "column_eQ7pYG": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle_ss26_truckerjacket_indigoink_5675.jpg",
+            "image": "shopify://shop_images/26sslookbook6975-edit-big2_22341039-c228-46c5-a0e7-a11d94bb0dd3.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -225,7 +225,27 @@
         "column_c4hWcr": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle_ss26_truckerjacket_indigoink_5675.jpg",
+            "image": "shopify://shop_images/26sslookbook7018-blackmerle-ss26.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_b8ah6A": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/26sslookbook6984-blackmerle-ss26.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wt73HK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/26sslookbook7058-blackmerle-ss26.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -247,7 +267,9 @@
         "column_drnCGY",
         "column_MNVqQP",
         "column_eQ7pYG",
-        "column_c4hWcr"
+        "column_c4hWcr",
+        "column_b8ah6A",
+        "column_wt73HK"
       ],
       "settings": {
         "title": "",
