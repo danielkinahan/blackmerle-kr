@@ -191,6 +191,26 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_FkrMC4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle-ss26-basetrousers-onionink-1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_nDNrzd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle-ss26-basetrousers-onionink-2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -203,7 +223,9 @@
         "column_A4EJir",
         "column_NfDc4R",
         "column_MRBdhj",
-        "column_egcrAT"
+        "column_egcrAT",
+        "column_FkrMC4",
+        "column_nDNrzd"
       ],
       "settings": {
         "title": "",
