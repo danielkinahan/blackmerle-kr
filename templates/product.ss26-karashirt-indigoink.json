@@ -205,6 +205,26 @@
         "column_MNVqQP": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/blackmerle_ss26_karashirt_indigoink_5415_719bf5a2-351c-48a6-bbf8-e102bb82547b.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_tbhDkW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/26sslookbook6864-edit-big.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hjChje": {
+          "type": "column",
+          "settings": {
             "image": "shopify://shop_images/26sslookbook6975-edit-big2_4dc8e801-e638-451c-b3fb-eb6d0f24e6da.jpg",
             "title": "",
             "text": "",
@@ -225,7 +245,9 @@
         "column_MRBdhj",
         "column_egcrAT",
         "column_drnCGY",
-        "column_MNVqQP"
+        "column_MNVqQP",
+        "column_tbhDkW",
+        "column_hjChje"
       ],
       "settings": {
         "title": "",
