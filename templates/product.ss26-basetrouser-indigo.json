@@ -211,6 +211,26 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_Ef7xdb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle-ss26-indigoink-basetrousers_1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_NgLyVK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle-ss26-indigoink-basetrousers_2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -225,7 +245,9 @@
         "column_DbwLey",
         "92f95d10-56ec-4ea1-b053-89ec3909826b",
         "column_HhkdQg",
-        "column_aXzcn7"
+        "column_aXzcn7",
+        "column_Ef7xdb",
+        "column_NgLyVK"
       ],
       "settings": {
         "title": "",
