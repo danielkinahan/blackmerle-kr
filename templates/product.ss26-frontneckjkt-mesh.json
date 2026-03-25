@@ -95,7 +95,7 @@
         "fc5fde9f-8bd9-4796-b88d-014fcb767d35": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle_ss26_frontneckjacket_8968_copy.jpg",
+            "image": "shopify://shop_images/Blackmerle_SS26_FrontneckJKT_Black_10.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -105,7 +105,7 @@
         "97f929e9-c8ad-4500-a71d-903208b3343e": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle_ss26_frontneckjacket_8965_copy.jpg",
+            "image": "shopify://shop_images/Blackmerle_SS26_FrontneckJKT_Black_3.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -115,7 +115,7 @@
         "2debec78-3c0a-4520-bed7-843b3d4dd641": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle_ss26_frontneckjacket_8985_copy.jpg",
+            "image": "shopify://shop_images/Blackmerle_SS26_FrontneckJKT_Black_6.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -125,7 +125,7 @@
         "36879f2f-980f-48c4-b01b-218c74fd4ddc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle_ss26_frontneckjacket_9004_copy.jpg",
+            "image": "shopify://shop_images/Blackmerle_SS26_FrontneckJKT_Black_9.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -135,7 +135,7 @@
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle_ss26_frontneckjacket_8982_copy.jpg",
+            "image": "shopify://shop_images/Blackmerle_SS26_FrontneckJKT_Black_7.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -145,7 +145,7 @@
         "4e1458b6-43a8-422d-ac88-0be62dae40fa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle_ss26_frontneckjacket_8978_copy.jpg",
+            "image": "shopify://shop_images/Blackmerle_SS26_FrontneckJKT_Black_14.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -155,7 +155,7 @@
         "92f95d10-56ec-4ea1-b053-89ec3909826b": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle_ss26_frontneckjacket_8989.jpg",
+            "image": "shopify://shop_images/Blackmerle_SS26_FrontneckJKT_Black_5.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -165,47 +165,7 @@
         "fead0e9f-850b-4254-8b83-5958af1daddb": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle_ss26_frontneckjacket_8970.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_rghbpx": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle_ss26_frontneckjacket_9006_copy.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_axLyCy": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle_ss26_frontneckjacket_9000_copy.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_jVJfUD": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle-ss26-frontneckjkt.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_D7KQn3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle-ss26-front-neck-zip.jpg",
+            "image": "shopify://shop_images/Blackmerle_SS26_FrontneckJKT_Black_15.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -221,11 +181,7 @@
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda",
         "4e1458b6-43a8-422d-ac88-0be62dae40fa",
         "92f95d10-56ec-4ea1-b053-89ec3909826b",
-        "fead0e9f-850b-4254-8b83-5958af1daddb",
-        "column_rghbpx",
-        "column_axLyCy",
-        "column_jVJfUD",
-        "column_D7KQn3"
+        "fead0e9f-850b-4254-8b83-5958af1daddb"
       ],
       "settings": {
         "title": "",
