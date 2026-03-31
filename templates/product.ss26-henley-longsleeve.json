@@ -162,16 +162,6 @@
             "link": ""
           }
         },
-        "column_3p8LWa": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Blackmerle_ss26_henleyneck_black_5.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_mV7hyE": {
           "type": "column",
           "settings": {
@@ -182,10 +172,20 @@
             "link": ""
           }
         },
-        "column_NMqhJb": {
+        "column_WcbWfJ": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/DSC01577-edit-big.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_NMqhJb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle-ss26-henley-longsleeve.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -201,8 +201,8 @@
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda",
         "4e1458b6-43a8-422d-ac88-0be62dae40fa",
         "column_XywnYM",
-        "column_3p8LWa",
         "column_mV7hyE",
+        "column_WcbWfJ",
         "column_NMqhJb"
       ],
       "settings": {
