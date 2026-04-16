@@ -95,7 +95,7 @@
         "97f929e9-c8ad-4500-a71d-903208b3343e": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0042838-F.jpg",
+            "image": "shopify://shop_images/blackmerle-ss26-drop2-4988.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -105,7 +105,7 @@
         "fc5fde9f-8bd9-4796-b88d-014fcb767d35": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0042820-F.jpg",
+            "image": "shopify://shop_images/blackmerle-ss26-drop2-4685.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -115,7 +115,7 @@
         "2debec78-3c0a-4520-bed7-843b3d4dd641": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0042860-F.jpg",
+            "image": "shopify://shop_images/blackmerle-ss26-drop2-4694.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -125,7 +125,7 @@
         "36879f2f-980f-48c4-b01b-218c74fd4ddc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0042825-F.jpg",
+            "image": "shopify://shop_images/SS26_blackmerle_bamboolongsleeve__shadow_18-edit.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -135,7 +135,7 @@
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0042840-F.jpg",
+            "image": "shopify://shop_images/SS26_blackmerle_bamboolongsleeve_-edit.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -145,7 +145,7 @@
         "4e1458b6-43a8-422d-ac88-0be62dae40fa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0042902_F.jpg",
+            "image": "shopify://shop_images/SS26_blackmerle_bamboolongsleeve__shadow_17-edit.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -155,7 +155,7 @@
         "92f95d10-56ec-4ea1-b053-89ec3909826b": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0042890-F.jpg",
+            "image": "shopify://shop_images/SS26_blackmerle_bamboolongsleeve__shadow_23-edit.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -165,7 +165,7 @@
         "fead0e9f-850b-4254-8b83-5958af1daddb": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0042871-F.jpg",
+            "image": "shopify://shop_images/SS26_blackmerle_bamboolongsleeve__shadow_222-edit.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -175,7 +175,7 @@
         "column_qppxBC": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/060131605-edit-3x4.jpg",
+            "image": "shopify://shop_images/SS26_blackmerle_bamboolongsleeve__shadow_25-edit.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -185,7 +185,27 @@
         "column_NYtt9G": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/060131587-edit-3x4.jpg",
+            "image": "shopify://shop_images/SS26_blackmerle_bamboolongsleeve__shadow_2-edit.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pjHKzQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SS26_bamboolongsleeve_-9-edit.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_w4WRLb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SS26_bamboolongsleeve_-11-edit.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -203,7 +223,9 @@
         "92f95d10-56ec-4ea1-b053-89ec3909826b",
         "fead0e9f-850b-4254-8b83-5958af1daddb",
         "column_qppxBC",
-        "column_NYtt9G"
+        "column_NYtt9G",
+        "column_pjHKzQ",
+        "column_w4WRLb"
       ],
       "settings": {
         "title": "",
