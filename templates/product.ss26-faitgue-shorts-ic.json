@@ -95,7 +95,7 @@
         "97f929e9-c8ad-4500-a71d-903208b3343e": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/F_25fw_2_moleskin9252_3x4_big_2_button.jpg",
+            "image": "shopify://shop_images/DSC01577-edit-big_90920220-3e24-466c-9028-0d68915e2662.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -105,7 +105,7 @@
         "fc5fde9f-8bd9-4796-b88d-014fcb767d35": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/25fw_2_moleskin9258_3x4_big_3.jpg",
+            "image": "shopify://shop_images/DSC01548-edit-big.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -115,7 +115,7 @@
         "2debec78-3c0a-4520-bed7-843b3d4dd641": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/25fw_2_moleskin9261_3x4_big_4.jpg",
+            "image": "shopify://shop_images/SS26_blackmerle_fatigueshorts_inkcoat-13.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -125,7 +125,7 @@
         "36879f2f-980f-48c4-b01b-218c74fd4ddc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/25fw_2_moleskin9268_3x4_big_6.jpg",
+            "image": "shopify://shop_images/SS26_blackmerle_fatigueshorts_inkcoat-16.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -135,7 +135,7 @@
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/25fw_2_moleskin9262_3x4_big_5.jpg",
+            "image": "shopify://shop_images/SS26_blackmerle_fatigueshorts_inkcoat-21.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -145,7 +145,7 @@
         "fcd1ee28-0512-4eb2-b63a-9d799a7d5731": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/25fw_2_moleskin9271_3x4_big_7.jpg",
+            "image": "shopify://shop_images/SS26_blackmerle_fatigueshorts_inkcoat.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -155,7 +155,7 @@
         "4e1458b6-43a8-422d-ac88-0be62dae40fa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/25fw_2_moleskin9272_3x4_big_8.jpg",
+            "image": "shopify://shop_images/SS26_blackmerle_fatigueshorts_inkcoat-6.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -165,7 +165,27 @@
         "92f95d10-56ec-4ea1-b053-89ec3909826b": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/F_25fw_blackmerle_moleskin_pants_3x4_big_2_button.jpg",
+            "image": "shopify://shop_images/SS26_blackmerle_fatigueshorts_inkcoat-4.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_gc4VtA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SS26_blackmerle_fatigueshorts_inkcoat-15.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ENWUYF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SS26_blackmerle_fatigueshorts_inkcoat-11.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -181,7 +201,9 @@
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda",
         "fcd1ee28-0512-4eb2-b63a-9d799a7d5731",
         "4e1458b6-43a8-422d-ac88-0be62dae40fa",
-        "92f95d10-56ec-4ea1-b053-89ec3909826b"
+        "92f95d10-56ec-4ea1-b053-89ec3909826b",
+        "column_gc4VtA",
+        "column_ENWUYF"
       ],
       "settings": {
         "title": "",
