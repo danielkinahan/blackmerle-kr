@@ -95,7 +95,7 @@
         "97f929e9-c8ad-4500-a71d-903208b3343e": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0041804___F.jpg",
+            "image": "shopify://shop_images/DSC01645-edit-big.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -105,7 +105,7 @@
         "fc5fde9f-8bd9-4796-b88d-014fcb767d35": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0041803___F-f_944f527e-940e-44b6-bf98-4612a6830179.jpg",
+            "image": "shopify://shop_images/DSC01651-edit-big.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -115,7 +115,7 @@
         "2debec78-3c0a-4520-bed7-843b3d4dd641": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0041815___F.jpg",
+            "image": "shopify://shop_images/DSC01660-edit-big.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -125,7 +125,7 @@
         "36879f2f-980f-48c4-b01b-218c74fd4ddc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0041816___F.jpg",
+            "image": "shopify://shop_images/Blackmerle-26ss-fatigue-shorts-slab-grey-8868.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -135,7 +135,7 @@
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0041806___F.jpg",
+            "image": "shopify://shop_images/Blackmerle-26ss-fatigue-shorts-slab-grey-8858.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -145,7 +145,47 @@
         "4e1458b6-43a8-422d-ac88-0be62dae40fa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0041809___F.jpg",
+            "image": "shopify://shop_images/Blackmerle-26ss-fatigue-shorts-slab-grey-8857.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wMgtRN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Blackmerle-26ss-fatigue-shorts-slab-grey-8876-edit-big.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_RU9Nkt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Blackmerle-26ss-fatigue-shorts-slab-grey-8863.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_BKzzWN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Blackmerle-26ss-fatigue-shorts-slab-grey-8856.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_NppAG4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Blackmerle-26ss-fatigue-shorts-slab-grey-8855.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -159,7 +199,11 @@
         "2debec78-3c0a-4520-bed7-843b3d4dd641",
         "36879f2f-980f-48c4-b01b-218c74fd4ddc",
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda",
-        "4e1458b6-43a8-422d-ac88-0be62dae40fa"
+        "4e1458b6-43a8-422d-ac88-0be62dae40fa",
+        "column_wMgtRN",
+        "column_RU9Nkt",
+        "column_BKzzWN",
+        "column_NppAG4"
       ],
       "settings": {
         "title": "",
