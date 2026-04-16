@@ -95,7 +95,7 @@
         "36879f2f-980f-48c4-b01b-218c74fd4ddc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle_ss26_basetrousers_indigoink_5542.jpg",
+            "image": "shopify://shop_images/blackmerle-ss26-drop2-4700.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -105,7 +105,7 @@
         "4e1458b6-43a8-422d-ac88-0be62dae40fa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle_ss26_basetrousers_indigoink_5573.jpg",
+            "image": "shopify://shop_images/SS26_blackmerle_bamboolongsleeve_black_29-edit.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -115,7 +115,7 @@
         "fead0e9f-850b-4254-8b83-5958af1daddb": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle_ss26_basetrousers_indigoink_5592.jpg",
+            "image": "shopify://shop_images/SS26_blackmerle_bamboolongsleeve_black_31-edit.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -125,7 +125,7 @@
         "column_qHW3Qf": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle_ss26_basetrousers_indigoink_5594.jpg",
+            "image": "shopify://shop_images/SS26_blackmerle_bamboolongsleeve_black_35-edit.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -135,7 +135,7 @@
         "column_ynBUem": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle_ss26_basetrousers_indigoink_5633.jpg",
+            "image": "shopify://shop_images/SS26_blackmerle_bamboolongsleeve_black_33-edit.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -145,7 +145,7 @@
         "column_Qda83Y": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle_ss26_basetrousers_indigoink_5607.jpg",
+            "image": "shopify://shop_images/SS26_blackmerle_bamboolongsleeve_black_28-edit.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -155,7 +155,7 @@
         "column_dACCgp": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle_ss26_basetrousers_indigoink_5581.jpg",
+            "image": "shopify://shop_images/SS26_blackmerle_bamboolongsleeve_black_30-edit.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -165,7 +165,7 @@
         "column_wEwmwW": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle_ss26_basetrousers_indigoink_5582.jpg",
+            "image": "shopify://shop_images/SS26_blackmerle_bamboolongsleeve_black_5-edit.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -175,7 +175,7 @@
         "column_DbwLey": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle_ss26_basetrousers_indigoink_5642.jpg",
+            "image": "shopify://shop_images/SS26_bamboolongsleeve_-11-edit.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -185,47 +185,7 @@
         "92f95d10-56ec-4ea1-b053-89ec3909826b": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/blackmerle_ss26_basetrousers_indigoink_5502.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_HhkdQg": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle_ss26_basetrousers_indigoink_5511.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_aXzcn7": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle_ss26_basetrousers_indigoink_5636.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_Ef7xdb": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle-ss26-indigoink-basetrousers_1.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_NgLyVK": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/blackmerle-ss26-indigoink-basetrousers_2.jpg",
+            "image": "shopify://shop_images/SS26_bamboolongsleeve_-9-edit.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -243,11 +203,7 @@
         "column_dACCgp",
         "column_wEwmwW",
         "column_DbwLey",
-        "92f95d10-56ec-4ea1-b053-89ec3909826b",
-        "column_HhkdQg",
-        "column_aXzcn7",
-        "column_Ef7xdb",
-        "column_NgLyVK"
+        "92f95d10-56ec-4ea1-b053-89ec3909826b"
       ],
       "settings": {
         "title": "",
