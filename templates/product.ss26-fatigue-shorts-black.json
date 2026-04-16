@@ -95,7 +95,7 @@
         "97f929e9-c8ad-4500-a71d-903208b3343e": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0043191-f-3x4-ff.jpg",
+            "image": "shopify://shop_images/blackmerle-ss26-fatigue-shorts-black-1715.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -105,7 +105,7 @@
         "fc5fde9f-8bd9-4796-b88d-014fcb767d35": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0043201-f-ff.jpg",
+            "image": "shopify://shop_images/blackmerle-ss26-fatigue-shorts-black-1721.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -115,7 +115,7 @@
         "2debec78-3c0a-4520-bed7-843b3d4dd641": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0043199_2-ff.jpg",
+            "image": "shopify://shop_images/blackmerle-ss26-fatigue-shorts-black-1725.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -125,7 +125,7 @@
         "36879f2f-980f-48c4-b01b-218c74fd4ddc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0043188_2-f-ff_4053e29c-0098-4b80-82f0-928a38f1e59a.jpg",
+            "image": "shopify://shop_images/blackmerle-ss26-fatigue-shorts-black-4188.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -135,7 +135,7 @@
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/060131815-edit-3X4.jpg",
+            "image": "shopify://shop_images/blackmerle-ss26-fatigue-shorts-black-4190.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -145,7 +145,7 @@
         "4e1458b6-43a8-422d-ac88-0be62dae40fa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/060131879-edit-3X4.jpg",
+            "image": "shopify://shop_images/blackmerle-ss26-fatigue-shorts-black-4191.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -155,7 +155,7 @@
         "fcd1ee28-0512-4eb2-b63a-9d799a7d5731": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/060131836-edit-3X4.jpg",
+            "image": "shopify://shop_images/blackmerle-ss26-fatigue-shorts-black-4215.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -165,7 +165,27 @@
         "92f95d10-56ec-4ea1-b053-89ec3909826b": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/060131876-edit-3X4.jpg",
+            "image": "shopify://shop_images/blackmerle-ss26-fatigue-shorts-black-4207.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qXUfya": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle-ss26-fatigue-shorts-black-4192.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wyg7V4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blackmerle-ss26-fatigue-shorts-black-4200.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -181,7 +201,9 @@
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda",
         "4e1458b6-43a8-422d-ac88-0be62dae40fa",
         "fcd1ee28-0512-4eb2-b63a-9d799a7d5731",
-        "92f95d10-56ec-4ea1-b053-89ec3909826b"
+        "92f95d10-56ec-4ea1-b053-89ec3909826b",
+        "column_qXUfya",
+        "column_wyg7V4"
       ],
       "settings": {
         "title": "",
