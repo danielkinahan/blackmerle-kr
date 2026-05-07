@@ -95,8 +95,8 @@
       "settings": {
         "heading": "",
         "heading_size": "h1",
-        "cover_image": "shopify://shop_images/blackmerle_925_silver_split.png",
-        "video_url": "https://youtu.be/ueUTbkwiXGg?si=qaqLQ9RK674rGIPV",
+        "cover_image": "shopify://shop_images/blackmerle_ss26_drop3_ring_thumbnails_yt-5.jpg",
+        "video_url": "https://youtu.be/oUcF2uutSl8",
         "description": "",
         "full_width": false,
         "color_scheme": "background-1",
@@ -110,7 +110,7 @@
         "97f929e9-c8ad-4500-a71d-903208b3343e": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0045013-edit-big-3x4.jpg",
+            "image": "shopify://shop_images/SS26_R03_SHOPIFY-1_c1930e61-9176-454c-ac42-67c0e56a0d5b.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -120,7 +120,7 @@
         "2debec78-3c0a-4520-bed7-843b3d4dd641": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0045005-edit-big-3x4.jpg",
+            "image": "shopify://shop_images/SS26_R03_SHOPIFY-10.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -130,7 +130,7 @@
         "fc5fde9f-8bd9-4796-b88d-014fcb767d35": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0045016-edit-big-3x4_dc0b688d-15ff-4ec3-89c5-c3bdb929c635.jpg",
+            "image": "shopify://shop_images/SS26_R03_SHOPIFY-14_88e5b832-5256-40b9-8bdb-c4aea8d2227e.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -140,7 +140,7 @@
         "36879f2f-980f-48c4-b01b-218c74fd4ddc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/B0045017-edit-big-3x4.jpg",
+            "image": "shopify://shop_images/SS26_R03_SHOPIFY-13_bc826e6b-cdda-4859-981c-1b2ebf60cf1e.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -150,7 +150,7 @@
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/IMG_0073-edit-big-3x4.jpg",
+            "image": "shopify://shop_images/SS26_R03_SHOPIFY-12.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -160,7 +160,27 @@
         "4e1458b6-43a8-422d-ac88-0be62dae40fa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/IMG_0132-edit-big-3x4.jpg",
+            "image": "shopify://shop_images/SS26_R03_SHOPIFY-11.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_HfepXn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SS26_R03_SHOPIFY-16.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_AbrEJX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SS26_R03_SHOPIFY-17.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -174,7 +194,9 @@
         "fc5fde9f-8bd9-4796-b88d-014fcb767d35",
         "36879f2f-980f-48c4-b01b-218c74fd4ddc",
         "2dba9699-46c8-40d5-8ad1-ad1ce5042dda",
-        "4e1458b6-43a8-422d-ac88-0be62dae40fa"
+        "4e1458b6-43a8-422d-ac88-0be62dae40fa",
+        "column_HfepXn",
+        "column_AbrEJX"
       ],
       "settings": {
         "title": "",
